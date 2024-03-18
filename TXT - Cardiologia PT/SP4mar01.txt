@@ -1,0 +1,64 @@
+Papel do estudo eletrofisiológico nas indicações para implante de marcapassos e desfibriladores automáticos
+<Autor(es): Jussara Pinheiro, Maurício Scanavacca, Eduardo Sosa>
+INTRODUÇÃO
+Os marcapassos e cardiodesfibriladores automáticos são unidades implantáveis indicadas para corrigir certas síndromes bradicárdicas e taquicárdicas, respectivamente. Métodos não-invasivos, tais como história clínica e eletrocardiograma convencional (obtido durante ou após o evento), dinâmico (Holter ou “looper”) ou de esforço, são, em geral, suficientes, na maioria dos casos, para indicação apropriada. Ocasionalmente, entretanto, são insuficientes para tal fim, e é nesse subgrupo de pacientes que o assim chamado estudo eletrofisiológico invasivo pode ser de grande utilidade.
+O estudo eletrofisiológico é um procedimento de cateterismo que permite, por meio de cateteres eletrodos posicionados sob visão fluoroscópica nas diversas câmaras cardíacas, estudar a formação e a condução normal e patológica do estímulo elétrico do coração.
+A introdução da estimulação elétrica programada do coração em 1967, por Durrer e Coumel, (1) foi uma contribuição importante para o entendimento do funcionamento do sistema de condução cardíaco, em condições fisiológicas e patológicas. Com essa técnica, tornou-se possível induzir e interromper diversas taquiarritmias, bem como testar a capacidade do sistema elétrico do coração de formar e conduzir estímulos, permitindo-se, assim, amplo entendimento da eletrofisiologia do coração humano.
+SÍNDROMES BRADICÁRDICAS
+As síndromes bradicárdicas podem resultar, basicamente, da disfunção do nó sinusal ou da ocorrência de bloqueios atrioventriculares.
+a) A disfunção sinusal ou doença do nó sinusal resulta de mau funcionamento (intrínseco ou extrínseco) do nó sinusal. Na maioria dos casos, a disfunção é diagnosticada com métodos não-invasivos. Muito raramente, entretanto, sua presença é confirmada durante estudo eletrofisiológico indicado para investigação de síncope.
+Uma idéia da função do nó sinusal é obtida por meio das determinações do tempo de recuperação do nó sinusal e da condução sinoatrial. O tempo de recuperação do nó sinusal (valor normal até 1.500 ms) avalia o efeito da sobreestimulação atrial na automaticidade do nó sinusal e o tempo de recuperação do nó sinusal corrigido (valor normal até 500 ms) é aquele obtido ao se subtrair do ciclo sinusal básico do paciente. As duas medidas freqüentemente estão anormais quando a doença é intrínseca, mas são geralmente normais em pacientes com fatores intermitentes, como a influência do sistema nervoso autônomo. Nessa situação, o estudo eletrofisiológico passa a ser um complemento aos outros testes não-invasivos. (1)
+b) Os bloqueios atrioventriculares podem resultar de transtornos da condução em diversos níveis do sistema de condução e podem ser persistentes ou intermitentes. Em geral, um eletrocardiograma convencional é suficiente para seu diagnóstico. Ocasionalmente, entretanto, o estado da condução tanto atrioventricular como intraventricular tem de ser avaliado com estudo eletrofisiológico. Os bloqueios atrioventriculares podem ser supra, intra e infra-hissianos, sendo os dois últimos de prognóstico mais reservado. A medida dos intervalos básicos AH (normal de 60 ms a 120 ms) e HV (normal de 35 ms a 55 ms) nos informa sobre o estado da condução no nó atrioventricular e no sistema His-Purkinje, respectivamente. Das medidas avaliadas, a de maior valor é a do intervalo HV, e em valores acima de 100 ms, principalmente associados a bloqueios de ramo, o risco anual de bloqueio atrioventricular total é elevado. Quando os valores do HV são normais ou discretamente elevados em pacientes com distúrbio da condução intraventricular e história de síncope, o risco de bloqueio atrioventricular total pode ser avaliado testando sua capacidade de conduzir estímulos atriais antes e/ou após o uso de procainamida intravenosa (10 mg/kg). Uma redução da “reserva” de condução pode ser suspeitada quando se duplica o valor do HV ou este fica superior a 100 ms, ou então quando uma dessas duas intervenções resulta em bloqueios atrioventriculares de segundo ou terceiro graus. Quando se utiliza a estimulação atrial para o teste, a indução de bloqueios atrioventriculares de segundo ou terceiro graus tem valor prognóstico quando a freqüência de estimulação é igual ou menor que 120 bpm. Dados normais, entretanto, não descartam por completo a chance de bloqueios intermitentes. Bloqueios paroxísticos de fase 4 são difíceis de descartar com essas técnicas. (1, 2)
+SÍNDROMES TAQUICÁRDICAS
+As síndromes taquicárdicas incluem diversas formas e etiologias, mas somente algumas são tratadas com cardiodesfibrilador automático. Nesse subgrupo estão algumas formas de taquicardia ventricular associada à cardiopatia estrutural e outras que ocorrem na presença de anomalias da repolarização ventricular. Nas mais diversas situações, a sensibilidade, a especificidade e o valor preditivo da estimulação elétrica programada são dependentes da apresentação clínica, da doença cardíaca de base e dos achados durante a estimulação elétrica programada. (3)
+Na prevenção primária e secundária
+A estimulação elétrica programada dos ventrículos (principalmente do direito) tem sido utilizada para estratificar o risco de morte súbita arrítmica em pacientes com cardiopatia estrutural, na intenção de prevenção tanto primária como secundária. Nessa segunda categoria estão incluídos os pacientes com taquicardia ventricular sustentada e os sobreviventes de parada cardíaca. Nesse subgrupo a estimulação elétrica programada pode chegar a revelar causas como distúrbios da condução atrioventricular, taquicardias ventriculares idiopáticas e taquicardias paroxísticas supraventriculares, todas potencialmente tratáveis por meio do implante de marcapasso ou por ablação com radiofreqüência, evitando-se, muitas vezes, o implante de cardiodesfibrilador automático. (4)
+Cardiopatia isquêmica
+Na maioria dos estudos feitos sobre prevenção tanto primária como secundária, predominou a cardiopatia isquêmica. Nesse subgrupo, a estimulação elétrica programada tem sido considerada de grande utilidade para estratificar o risco de eventos arrítmicos e de morte súbita. Na presença de doença arterial coronariana e taquicardia ventricular sustentada a chance de indução de taquicardia ventricular pode chegar a 93%. (3)
+Dois grandes ensaios clínicos, MADIT e MUSTT, serviram de base para comprovar o papel tanto da estimulação elétrica programada em pacientes pós-infarto agudo do miocárdio com disfunção ventricular como da atividade ventricular repetitiva em estratificar risco de arritmia ventricular e morte súbita (prevenção primária). Na análise de subgrupo, o que foi indutível e que não foi suprimido com drogas antiarrítmicas teve risco significativamente maior que os eventos não-indutíveis, sendo esses pacientes candidatos ao implante de cardiodesfibrilador. (5, 6)
+Miocardiopatia dilatada.
+A utilidade da estimulação elétrica programada em determinar prognóstico e guiar terapia continua limitada nessa população de pacientes. O prognóstico parece não estar correlacionado a indutibilidade da arritmia, e a supressão da arritmia induzida não necessariamente implica boa evolução (1, 6). O grau de disfunção ventricular é o melhor preditor nesses pacientes. No subgrupo com taquicardia ventricular sustentada monomórfica, é sempre válido descartar, com estimulação elétrica programada, a possibilidade de taquicardia ventricular ramo a ramo, pois a chance de cura é grande nessa condição. (7)
+Dentro desse grupo deve-se destacar a doença de Chagas. Apesar de tão prevalente em nosso meio, são poucos os dados disponíveis que esclareçam sobre o papel da estimulação elétrica programada nas indicações de cardiodesfibriladores automáticos. Alguns dados dão conta de que a indução de taquicardia ventricular pode ser considerada um indicador de prognóstico reservado. Nesse grupo de doentes, a estimulação elétrica programada realizada após antiarrítmicos da classe III identificou pacientes com taquicardia ventricular sustentada mal tolerada como um subgrupo de alto risco para mortalidade total, morte arrítmica e morte súbita, sendo então potenciais candidatos ao implante de cardiodesfibrilador automático. (8, 9)
+Miocardiopatia hipertrófica
+A miocardiopatia hipertrófica é uma condição hereditária que pode causar morte súbita na ausência de sintomas significativos. Assim, é preciso identificar pacientes de alto risco de morte súbita. Foram identificados diversos fatores — síncope, história familiar de morte súbita, taquicardia ventricular não-sustentada ao Holter, resposta anormal da pressão ao exercício e grau de hipertrofia ventricular esquerda. A indução de taquicardia ventricular com estimulação elétrica programada tem sido considerada de valor limitado e em geral não mostra vantagem sobre a estratificação não-invasiva, em parte pela multiplicidade de mecanismos possíveis implicados na morte súbita nessa condição. Contudo, pode ser importante para avaliar a eventual presença de distúrbios da condução intraventricular, de síndrome de Wolff-Parkinson-White e/ou de outras taquicardias. (10)
+Displasia arritmogênica de ventrículo direito
+A displasia arritmogênica de ventrículo direito é uma entidade pouco freqüente e pode ser uma importante causa de insuficiência cardíaca congestiva e arritmia ventricular em alguns pacientes. Nessa entidade, a estimulação elétrica programada é geralmente utilizada como parte de um procedimento de ablação com radiofreqüência, mas pode servir como guia para indicar um cardiodesfibrilador automático. (11)
+Síndrome de Brugada
+Essa síndrome resulta de uma anomalia na repola rização ventricular, com alto poder letal nos casos típicos. Nos pacientes que sobrevivem a taquicardia ventricular polimórfica ou fibrilação ventricular, a indicação de um cardiodesfibrilador automático é obrigatória. Nos casos assintomáticos existe alguma controvérsia. A indução de taquicardia ventricular com estimulação elétrica programada, nesses casos, é considerada indicador de mau prognóstico, e, portanto, merecedora de cardiodesfibrilador automático. Recentemente Brugada e colaboradores demonstraram que a indutibilidade de arritmias ventriculares durante estimulação elétrica programada e história de síncope são marcadores de mau prognóstico, devendo ser considerado o implante de cardiodesfibrilador automático (1, 12).
+MISCELÂNEA
+A seguir estão apresentados alguns itens destacados das recomendações para avaliação e tratamento de pacientes com arritmias cardíacas da Sociedade Brasileira de Cardiologia (13), juntamente com dados do consenso americano para indicações de estudo eletrofisiológico e ablação. (1, 11)
+Recomendações da estimulação elétrica programada na disfunção do nó sinusal
+— Classe A e B1:
+Nenhuma.
+— Classe B2:
+Na suspeita de disfunção do nó sinusal, mas sem relação causal certa a despeito de extensa avaliação clínica ou na suspeita de associação com taquiarritmias.
+— Classe C:
+Pacientes assintomáticos, com bradiarritmia sinusal e pausas sinusais.
+Recomendações da estimulação elétrica programada nos bloqueios atrioventriculares
+— Classe A:
+Pacientes com bloqueios de 2º e 3º graus, portadores de marcapasso, com suspeita de outra arritmia como causa do sintoma.
+— Classe B1:
+Pacientes portadores de bloqueio atrioventricular de 1º grau sintomático, associado a distúrbio da condução intraventricular, com suspeita de lesão do sistema His-Purkinje.
+— Classe B2:
+Pacientes com bloqueio atrioventricular de 2º grau e distúrbio da condução intraventricular, assintomáticos.
+— Classe C:
+Pacientes com bloqueio atrioventricular total permanente, assintomáticos.
+Recomendações para a estimulação elétrica programada nos distúrbios da condução intraventricular
+— Classe A:
+Pacientes com marcapasso implantado, que permanecem sintomáticos e nos quais uma arritmia é suspeitada.
+— Classe B1:
+Nenhuma.
+— Classe B2:
+Pacientes assintomáticos que necessitam de medicamentos com ação importante no sistema His-Purkinje
+— Classe C:
+Nenhuma.
+Recomendações de estudo eletrofisiológico para estratificação de risco de morte súbita e em recuperados de parada cardíaca
+— Classe A:
+Pacientes com infarto prévio (> 2 semanas), portadores de taquicardia ventricular não-sustentada e fração de ejeção > 35%.
+Parada cardiorrespiratória sem causa definida.
+— Classe B2:
+Pacientes com síndrome de Brugada, assintomáticos.
+Pacientes com cardiopatia estrutural e taquicardia ventricular não-sustentada, associadas a fatores de risco específicos à doença de base.
+— Classe C:
+Pacientes com fatores reversíveis identificados.
+Pacientes com expectativa de vida reduzida por doenças concomitantes.

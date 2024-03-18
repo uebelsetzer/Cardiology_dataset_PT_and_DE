@@ -1,0 +1,86 @@
+Fármacos no controle do ritmo e da freqüência de fibrilação atrial
+<Autor(es): Marcelo Garcia Leal, Simão Gonçalves Maduro, Júlia Guedes Pereira Garcia Leal>
+INTRODUÇÃO
+É cada vez mais freqüente o atendimento de pacientes com fibrilação atrial ou "flutter" atrial, em decorrência do aumento da expectativa de vida da população brasileira. Sua prevalência, que na população geral é de 0,4%, aumenta com a idade, e a partir de 50 anos duplica a cada década (1).
+O primeiro passo em seu atendimento é a classificação da fibrilação atrial em suas diferentes formas de apresentação (primeiro episódio, paroxística, persistente e permanente) para adequação da terapêutica individualizada.
+Nos pacientes com as formas paroxística ou persistente, cabe ao médico decidir sobre a manutenção ou não do ritmo sinusal (2). Naqueles com a forma permanente, em que a reversão do ritmo não é possível ou não é indicada pelo médico, torna-se necessário decidir sobre a melhor forma de controle da freqüência cardíaca e prevenção do tromboembolismo.
+A freqüência cardíaca elevada é a principal responsável pelas queixas freqüentes de "palpitações" e pela manifestação mais preocupante, a taquicardiomiopatia (3).
+Não há um "número mágico" que determine a freqüência cardíaca ideal a ser almejada na fibrilação atrial permanente; mas, segundo o último consenso do "American College of Cardiology" e "Americam Heart Association", a freqüência-alvo seria de 60 bpm a 80 bpm no repouso e de 90 bpm a 115 bpm durante o esforço físico (4), devendo ser individualizada.
+CLASSIFICAÇÃO DAS DROGAS ANTIARRÍTMICAS
+Primeiramente, temos que lembrar a classificação dos antiarrítmicos, e, para isso, ainda se utiliza a classificação de Vaughan-Willians (Tab. 1), na qual as drogas são separadas de acordo com sua ação sobre os canais de membrana (5, 6) e receptores.
+<Tabela 1. Classificação dos medicamentos antiarrítmicos, segundo Vaughan-Willians.> <tabela>
+CONTROLE DA RESPOSTA VENTRICULAR
+É o procedimento mais importante para o alívio dos sintomas nos portadores de fibrilação atrial e "flutter" atrial, conseguindo resultados favoráveis na maioria dos casos. Sua obtenção se faz com drogas que atuam na depressão da condução pelo nó atrioventricular.
+As drogas mais freqüentemente utilizadas para esse fim são: digital, betabloqueadores, bloqueadores dos canais de cálcio não-diidropiridínicos e amiodarona.
+A resposta ventricular pode ser controlada de forma aguda, com a administração dessas drogas por via endovenosa (Tab. 2), ou de forma crônica, com medicações administradas por via oral (Tab. 3).
+<Tabela 2. Agentes farmacológicos administrados por via intravenosa para controle da freqüência cardíaca em portadores de fibrilação atrial e “flutter” atrial (7).> <tabela>
+<Tabela 3. Agentes farmacológicos administrados por via oral para controle da freqüência cardíaca em portadores de fibrilação atrial e “flutter” atrial (7).> <figura>
+MANUTENÇÃO DO RITMO SINUSAL APÓS REVERSÃO DA FIBRILAÇÃO E "FLUTTER" ATRIAL
+A manutenção do ritmo sinusal pode ser conseguida com o emprego de drogas que provocam o prolongamento da duração do período refratário efetivo ou aumento do limiar de fibrilação atrial (8).
+O sucesso terapêutico não significa a abolição completa da arritmia, mas também a redução de suas recorrências.
+Antes de optar pela preservação do ritmo sinusal, temos que considerar a possibilidade de sua manutenção, considerando o número de cardioversões prévias, a freqüência de recorrência da arritmia, a tolerância do paciente aos medicamentos já empregados e a adesão terapêutica.
+As medicações comumente usadas para manutenção do ritmo são as drogas dos grupos IA (quinidina, procainamida e disopiramida), IC (proprafenona) e III (sotalol e amiodarona).
+DROGAS UTILIZADAS NO CONTROLE DA FREQÜÊNCIA VENTRICULAR E NA MANUTENÇÃO DO RITMO SINUSAL
+Digital
+É uma droga utilizada exclusivamente para o controle da resposta ventricular na fibrilação atrial ou no "flutter" atrial, principalmente em pacientes com insuficiência cardíaca congestiva por déficit contrátil.
+Pode ser utilizada isoladamente ou com outros medicamentos com o mesmo propósito.
+Em uso isolado, tem pouca eficácia em atingir o controle da freqüência cardíaca, principalmente em pacientes ativos, já que sua ação na redução da freqüência cardíaca se dá pelo efeito colinérgico (vagal). Esse comportamento é deprimido na atividade física, com o incremento da atividade simpática, de tal forma que o digital com intuito de reduzir a freqüência ventricular se presta principalmente para os pacientes em repouso, que não estejam hipotensos ou em outras situações em que exista atividade simpática exacerbada.
+É interessante mencionar que o efeito do digital na parede atrial é a diminuição de seu período refratário, pela liberação colinérgica. Isso facilita o aparecimento ou a manutenção da fibrilação atrial, sendo úteis apenas na redução da freqüência ventricular em situação de repouso e na melhora inotrópica nos estados com insuficiência cardíaca.
+Cabe mencionar que o fato de o paciente em ritmo sinusal, quando apresenta recorrência de sua fibrilação atrial, estar digitalizado não promove redução da freqüência ventricular durante a arritmia.
+Ao contrário do que é praticado, o digital não constitui a melhor opção para a redução da freqüência ventricular diuturnamente, devendo estar associado a outras drogas que atuem no nó atrioventricular.
+É comum a presença de pausas, que podem ser consideradas secundárias a seu efeito terapêutico, sem que haja a necessidade de alterar a conduta. A presença de pausas de 2,8 segundos na vigília e de até 4 segundos no sono foi confirmada por Pitcher e colaboradores, não necessitando implante de marcapasso ou ajuste posológico (9).
+Pode ser utilizado na fase aguda, para redução rápida da freqüência ventricular, em pacientes com disfunção sistólica (principalmente) ou não, por via venosa.
+Classe IA
+São bloqueadoras dos canais de sódio, deprimindo, dessa forma, a fase 0 do potencial de ação, dificultando a condução do estímulo cardíaco. Também deprimem os canais de potássio, prolongando a duração do potencial de ação.
+São drogas que possuem vários efeitos adversos, dos quais o mais importante é a ação pró-arrítmica, que é maior em pacientes com cardiopatias estruturais e disfunção ventricular.
+Quinidina
+Apesar de ser a droga antiarrítmica mais antiga existente, seu uso, por causa de seus efeitos adversos e da existência de outras drogas mais seguras e eficazes, ficou limitado à prática clínica. Em uma meta-análise sobre o uso da quinidina na manutenção do ritmo sinusal, a mesma foi mais eficaz que o placebo, porém houve maior mortalidade com seu uso (10). Deveria ser usada apenas em pacientes não-portadores de cardiopatia. Apresenta ação anticolinérgica em menor intensidade que a disopiramida. Por bloquear a saída de potássio, essa droga prolonga a duração do potencial de ação, aumentando o período refratário e daí prolongando o intervalo QT, o qual deveria ser monitorado quando se opta por essa medicação.
+Sua ação anticolinérgica pode facilitar a condução atrioventricular, aumentando a resposta ventricular, durante as recorrências da fibrilação atrial e do "flutter" atrial.
+No "flutter" atrial, a quinidina pode diminuir a freqüência atrial, de tal modo que mais estímulos sejam conduzidos ao ventrículo, aumentando paradoxalmente a resposta ventricular. Esse comportamento ocorre também com a disopiramida e a propafenona, devendo essas drogas estar associadas a outras que bloqueiem a condução atrioventricular.
+O uso concomitante com digital aumenta a chance de intoxicação digitálica, pela diminuição de seu "clearance", o que também ocorre com a propafenona, o verapamil e a amiodarona.
+Diante de opções mais seguras, não utilizamos essa medicação em nossa prática clínica.
+Procainamida
+Essa droga é usada na forma endovenosa para reversão a ritmo sinusal, em pacientes com "flutter" atrial ou fibrilação atrial com menos de 48 horas de instalação. A apresentação oral no Brasil é pouco usada, pela dificuldade posológica.
+Disopiramida
+A disopiramida possui alta ação anticolinérgica, podendo (teoricamente) aumentar a freqüência cardíaca em pacientes vagotônicos (11). O melhor uso desse fármaco é nos pacientes com fibrilação atrial ou "flutter" vagotônicos (mais freqüente no sono ou no período pós-prandial), nos quais a bradicardia pode ser um fator predisponente ao desencadeamento da arritmia. Nesses casos, o digital e os betabloqueadores podem favorecer a manutenção da fibrilação atrial.
+Como as demais drogas do grupo IA, não deveria ser usada em portadores de cardiopatias.
+Classe IC
+É constituída por drogas com potente ação no bloqueio do influxo de sódio, deprimindo significativamente a velocidade do estímulo pelas células de resposta rápida, possuindo efeito apenas discreto no aumento do intervalo QT.
+Propafenona
+É a única droga dessa subclasse existente em nosso meio. No "Cardiac Arrhythmia Suppression Trial" (CAST), as drogas flecainida e encainida (da mesma classe da propafenona) foram condenadas na cardiopatia isquêmica em portadores de arritmia ventricular.
+A propafenona é um fármaco bastante eficaz na manutenção do ritmo sinusal, após reversão da fibrilação atrial, e também seguro em pacientes que não apresentam cardiopatia estrutural.
+Classe II (betabloqueadores)
+Cada vez mais constitui a droga de eleição para controle da freqüência ventricular nos portadores de fibrilação atrial, pela sua ação na condução atrioventricular e por sua utilidade em outras situações.
+Essa classe de medicamentos apresenta uma série de benefícios nos cardiopatas em geral, pela suas ações antiisquêmica, antiadrenérgica, antifibrilatória e anti-hipertensiva, e por atuar no eixo neuro-humoral da insuficiência cardíaca congestiva, evitando o remodelamento cardíaco e diminuindo sua morbidade e mortalidade.
+Para a redução rápida da freqüência ventricular, pode ser utilizada por meio de administração endovenosa, com boas respostas terapêuticas.
+Atua na depressão da condução atrioventricular tanto no repouso como, principalmente, nas atividades físicas. As drogas dessa classe apresentam utilidade apenas na redução da resposta ventricular, não tendo eficácia na manutenção do ritmo sinusal, com exceção dos casos de fibrilação atrial adrenérgico-dependentes (11).
+<Tabela 4. Drogas e doses habituais dos principais fármacos utilizados na manutenção
+do ritmo sinusal.> <tabela>
+Classe III
+São drogas que prolongam o período refratário de todos os tecidos do coração, por bloquearem a saída do potássio intracelular. Este efeito dificulta a condução AV diminuindo a freqüência ventricular nos portadores de fibrilação e "flutter" atrial e atuam na parede atrial favorecendo a manutenção do ritmo sinusal.
+Por prolongarem a repolarização, tais drogas alongam o intervalo QT. Em nosso meio dispomos de apenas duas drogas desse grupo: sotalol e amiodarona.
+Sotalol
+Droga de ação classe III e betabloqueadora. Pode aumentar o intervalo QT, predispondo a pró-arritmias, principalmente em portadores de cardiopatia com disfunção ventricular e também em portadores de hipertrofia ventricular significativa, que já possuem intervalo QT prolongado de base.
+Dessa forma, o sotalol deve ser prescrito a pacientes que não possuam cardiopatias estruturais, principalmente nos que apresentam clínica de insuficiência cardíaca.
+Em um estudo multicêntrico da SOCESP, o sotalol foi similar à quinidina na manutenção do ritmo sinusal, com a vantagem de que as recidivas de fibrilação atrial cursaram com menor freqüência ventricular.
+O sotalol, por ser um betabloqueador, poderá ser uma opção para evitar recorrências de fibrilação atrial nos portadores de cardiopatia isquêmica, na ausência de disfunção ventricular significativa.
+Amiodarona
+Constitui a mais eficaz das drogas antiarrítmicas disponíveis para a manutenção do ritmo sinusal em portadores de fibrilação atrial e provavelmente também para o "flutter" atrial, além de atuar reduzindo a freqüência cardíaca.
+Embora seja uma droga freqüentemente prescrita em nosso meio para o controle da freqüência ventricular, seu uso deveria ser desestimulado, por existirem outras opções terapêuticas tão eficazes e com menos efeitos adversos.
+Em algumas situações, seu uso é necessário para o controle da freqüência ventricular, como nos pacientes em que houve falha terapêutica com outros fármacos e naqueles que possuam outras indicações para seu uso (arritmia ventricular complexa na presença de disfunção sistólica).
+Possui baixa incidência de efeitos pró-arrítmicos, pois, apesar de prolongar o intervalo QT, não o faz com dispersão da refratariedade ventricular. Apesar dessa vantagem, seus efeitos adversos extracardíacos, que são dose e tempo-dependentes, podem levar à interrupção de seu uso em algumas situações (depósitos corneanos, impregnação cutânea, polineuropatias, hepatite, disfunção tireoidiana e pnemonite).
+É a única droga antiarrítmica, fora os betabloqueadores puros, que pode ser administrada com segurança nos portadores de cardiopatia ventricular com disfunção sistólica grave, diminuindo a incidência de arritmias ventriculares complexas e, provavelmente, aumentando a sobrevida num subgrupo desses pacientes.
+Com esse perfil, a amiodarona deveria ser usada na manutenção do ritmo sinusal em pacientes graves, principalmente com disfunção sistólica, e naqueles sem cardiopatia significativa em que as outras drogas falharam.
+Classe IV (bloqueadores dos canais de cálcio)
+Os bloqueadores de cálcio não-diidropiridínicos (verapamil e diltiazem) apresentam várias ações benéficas além do controle da freqüência ventricular, como suas ações antiisquêmica e anti-hipertensiva. É importante ressaltar que existem evidências de que a diminuição do influxo de cálcio no meio intracelular evita o remodelamento eletrofisiológico do átrio e a perpetuação da fibrilação atrial (12, 13).
+Os bloqueadores de cálcio, ao contrário dos betabloqueadores, deveriam ser evitados nos portadores de síndrome isquêmica coronariana aguda e nos casos de insuficiência cardíaca congestiva por disfunção sistólica.
+Pode ser utilizado na redução rápida da freqüência ventricular, sendo administrada por via venosa.
+OUTRAS DROGAS UTILIZADAS NO MANUSEIO DA FIBRILAÇÃO ATRIAL
+Clonidina
+Fármaco anti-hipertensivo, simpaticolítico de ação central, cujo efeito redutor da freqüência cardíaca nos pacientes com fibrilação atrial é comparável ao de outras drogas utilizadas para esse fim, como digital e verapamil (14). Em um pequeno estudo prospectivo, realizado por Roth e colaboradores, não houve só redução da freqüência cardíaca mas também reversão da fibrilação atrial em alguns pacientes, sendo considerada tratamento eficiente em pacientes com fibrilação atrial que estejam hemodinamicamente estáveis (15).
+Candesartam
+Droga do grupo dos antagonistas da angiotensina II, revelou ser benéfica na prevenção de recorrências de fibrilação atrial. Em estudo experimental com cachorros, o uso de candesartan preveniu o remodelamento atrial e a incidência de fibrilação atrial. Apesar de ser um estudo com modelo animal e da necessidade de estudos em humanos, o tratamento com candesartan pode ser considerado promissor em pacientes com fibrilação atrial (16).
+Estatina
+Existem poucos estudos na prevenção da fibrilação atrial com o uso de estatinas (17-20). Em estudo publicado em maio de 2004, Merckx e colaboradores (21) demonstraram que no seguimento de 664 pacientes durante 6,5 anos foi observada redução da incidência de fibrilação atrial em 60% dos pacientes que usavam estatina, principalmente no grupo com mais de 65 anos de idade, com aumento do átrio esquerdo e hipertrofia ventricular esquerda. Provavelmente, esse resultado se deve às ações antiinflamatória, antioxidativa, antifibrótica e anti-hipertrófica das estatinas (21).
+CONCLUSÃO
+A fibrilação atrial constitui a arritmia sustentada mais comum na prática clínica. Além disso, sua prevalência está aumentando paralelamente ao aumento da população geriátrica. Sendo assim, cabe a nós, cardiologistas, e também a todos os clínicos que deparam com essa arritmia saber manusear as medicações usadas no controle do ritmo e da freqüência cardíaca. Consideramos, porém, que um dos aspectos mais importantes da terapêutica desses pacientes seja saber tratar sua cardiopatia de base e principalmente esforçar-se na sua prevenção.

@@ -1,0 +1,128 @@
+REVERSÃO DA ANTICOAGULAÇÃO ORAL EM SITUAÇÕES DE RISCO
+<Autor(es): CYRILLO CAVALHEIRO FILHO e ROBERTO ABI RACHED>
+INTRODUÇÃO
+A terapia anticoagulante oral é cada vez mais freqüente em nossa população, e estima-se que mais de 30% da população acima dos 70 anos apresenta indicação da terapêutica em virtude da presença de taquicardia supraventricular, como fibrilação atrial.
+Ao definir hemostasia como equilíbrio dinâmico entre a trombose e a hemorragia, com a permanência do fluxo sanguíneo em estado líquido nos vasos, as alterações da hemostasia observadas durante o tratamento anticoagulante, quer seja com o uso de anticoagulantes orais quer de heparinas, podem acarretar diversos distúrbios na função ou na contagem plaquetária, modificações nos sistemas de coagulação, anticoagulação, fibrinolítico e outras alterações hematológicas.
+Há anos são feitas pesquisas relacionadas mais especificamente a substâncias anticoagulantes a serem ministradas em pacientes com indicação para a realização de tratamento ou profilaxia antitrombótica. Desde então, relatos de sangramentos ocasionais e repentinos não são incomuns. O que se procura é o anticoagulante ideal, que seja efetivo e com poucos efeitos hemorrágicos.
+Apesar da melhoria e da padronização do uso de anticoagulantes, os médicos ainda se deparam com muitos problemas, como início apropriado, manutenção, controle laboratorial das doses do anticoagulante administrado, manuseio da anticoagulação exacerbada, sangramento dos pacientes anticoagulados, qual o melhor medicamento e a melhor via de administração para cada ocasião de risco, além de como evitar fenômenos trombóticos decorrentes da reversão da terapia antitrombótica.
+No preparo dos pacientes que serão submetidos a tratamento clínico e/ou cirúrgico, requisitos quanto ao estado hemostático e níveis hematimétricos adequados deverão ser preenchidos. Aqueles com alto risco trombótico e/ou hemorrágico devem ser identificados e tratados. Medidas deverão ser instituídas em todo o período do tratamento hospitalar e domiciliar.
+Relatos de sangramentos ocasionais e repentinos não são incomuns, assim como de fenômenos trombóticos decorrentes das terapias anticoagulantes e sua reversão em momentos críticos, respectivamente. No entanto, com o desenvolvimento de técnicas farmacológicas e as melhorias tecnológicas, aliadas ao aprimoramento técnico-cirúrgico e de terapia intensiva, as taxas de morbidade e de mortalidade do paciente anticoagulado em situação de risco têm efetivamente diminuído.
+Para compreensão dos problemas hematológicos desenvolvidos no paciente anticoagulado em situação de risco e principalmente criticamente enfermo, são fundamentais cuidadosas avaliações clínicas, laboratoriais e radiológicas.
+É vasta a bibliografia relacionada aos riscos de fenômenos trombo-hemorrágicos nesses pacientes. É importante, também, salientar que deverão ser considerados os riscos decorrentes das terapias instituídas, assim como da transfusão de sangue/hemocomponentes. Cabe ressaltar que muitos pacientes apresentam maior preocupação com a possibilidade de receber transfusão de sangue que com o próprio procedimento a que serão submetidos.
+Várias são as ações que levam à diminuição dos distúrbios hemostáticos. Além disso, tanto a relação risco/benefício do procedimento como a relação custo/efetividade podem ser melhoradas quando as complicações dos pacientes são reduzidas.
+A complexidade do paciente anticoagulado em situação de risco e a dificuldade em estudar isoladamente as variáveis que envolvem as condições clínicas (imobilização reduzida, idade avançada, obesidade, gestação, puerpério, próteses mecânicas cardíacas, endocardite, sepse, doença cardíaca cianogênica, diabetes, insuficiência renal aguda ou crônica, câncer, baixo hematócrito, mutações trombofílicas genéticas ou adquiridas) e/ou cirúrgicas, somadas às condições de saúde prévias dos pacientes e medicamentos por eles utilizados, dificultam a avaliação hemostática não só pela complexa fisiologia envolvida, mas também pela interação multifatorial dos sistemas.
+Para reduzir os riscos hemorrágicos e as necessidades transfusionais, a fim de minimizar a possibilidade de transmissão de doenças e efeitos adversos relacionados à transfusão de sangue/hemocomponentes, assim como a redução dos riscos trombóticos, é necessário total entrosamento multidisciplinar entre intensivistas, clínicos, cirurgiões, hematologia, hemoterapia, anestesiologia e profissionais de enfermagem, fisioterapia, nutrição e odontologia, pois quando for necessária reversão da terapia anticoagulante esta deve ser realizada de maneira programada.
+Milhares de pacientes recebem terapia anticoagulante e são atendidos em serviços de emergência e de terapia intensiva no Brasil, com necessidade de reversão da anticoagulação.
+Os programas de transfusão de sangue/hemocomponentes têm como objetivo realizar essa transfusão quando imprescindível e no limite das necessidades do paciente, de modo a expô-lo a menor número de doadores. A redução de transfusões é conseguida mediante técnicas não-farmacológicas e do uso de agentes hemostáticos ou hemoderivados para minimizar a perda sanguínea perioperatória e o incremento de eritropoiese.
+A melhoria dos protocolos de atendimento com procedimentos anestésicos e hemoterápicos e das técnicas cirúrgicas tem permitido que números expressivos de atendimentos de pacientes anticoagulados e criticamente enfermos transcorram sem a necessidade de transfusões.
+Procedimentos em pacientes em uso de anticoagulação são freqüentes. Casos de aneurismas de aorta, doença vasculares em arcos aórticos, portadores de doenças críticas, emergências, reoperações, em uso concomitante de terapia antiplaquetária, entre outros, em geral levam à necessidade de transfusões, acarretando aumento da morbidade e da mortalidade a elas relacionadas.
+FISIOLOGIA DA HEMOSTASIA
+A hemostasia pode ser definida como a permanência do fluxo sanguíneo em estado líquido nos vasos. A hemostasia ou o controle do sangramento a partir de um local de injúria endotelial envolve:
+- interação do vaso sanguíneo e estruturas que o suportam;
+- interação do vaso injuriado e a circulação plaquetária;
+- formação da fibrina pelo sistema de coagulação;
+- regulação da extensão do coágulo de sangue pelos inibidores da coagulação e do sistema fibrinolítico;
+- remodelação e reparo do local de injúria após a parada do sangramento 11.
+ESTADO ATUAL DA QUESTÃO
+Para a compreensão dos problemas hematológicos desenvolvidos em paciente anticoagulados em situação de risco, torna-se fundamental a avaliação hematológica, na medida do possível, seguida de acompanhamento durante o procedimento, tratamento ou cirurgia a que o paciente tenha sido submetido.
+Essa avaliação permitirá conhecer as condições pré-cirúrgicas, se houver necessidade de intervenção cirúrgica, estimar riscos intra e pós-operatórios e estabelecer condutas específicas, a fim de reduzir os efeitos das situações agravantes, sejam elas comuns a todas as cirurgias (hipotermia, hemodiluição, agentes farmacológicos, distúrbios hemodinâmicos, alterações metabólicas, entre outras) ou particulares de cada paciente. Em decorrência dessas situações, algumas vezes a hemorragia é exuberante, requerendo reoperações, e freqüentemente são necessárias transfusões de sangue/hemocomponentes.
+No preparo de pacientes atendidos em caráter de urgência e em estado crítico, deverão ser preenchidos requisitos quanto ao estado hemostático e aos níveis hematimétricos adequados. Aqueles com maior risco hemorrágico devem ser identificados e tratados adequadamente para o distúrbio que o acomete (como, por exemplo, estenose aórtica com doença de von Willebrand adquirida por alteração de multímeros de alto peso molecular do fator de von Willebrand, púrpura trombocitopênica idiopática e síndromes mielodisplásicas, entre outras). Se uma eventual cirurgia não puder ser adiada, o incremento da perda de sangue no intra e no pós-procedimento cirúrgico ou invasivo deverá ser esperado, devendo ser instituídas medidas.
+Os testes de hemostasia podem ter valor preditivo da perda sanguínea e de fenômenos trombóticos. É de importância na rotina de atendimento do paciente anticoagulado obter, além do tempo de protrombina e do "International Normalized Ratio" (INR), o hemograma, o tempo de tromboplastina parcial ativada, a determinação do nível de fibrinogênio, o tempo de sangramento (método de Ivy) e a contagem plaquetária. Testes como dímero-D (quantitativo pelo método imunoenzimático) e agregação plaquetária poderão também ser úteis, assim como o "screening" trombofílico. A história de sangramento anormal com o uso do anticoagulante deve ser pesquisada.
+Agentes que afetam a hemostasia em associação com a terapia anticoagulante, tais como aspirina, dipiridamol, ticlopidina, clopidogrel, tirofiban, abciximab, ginkgo biloba, prostaglandinas e antiinflamatórios não-hormonais, devem ser interrompidos e anormalidades da hemostasia devem ser tratadas concomitantemente ao tratamento de reversão da anticoagulação em situação de risco.
+TERAPÊUTICA
+Numerosas estratégias têm sido experimentadas e recomendadas, a fim de se evitar a transfusão de sangue/hemocomponentes e fenômenos tromboembólicos, utilizando instrumentos farmacológicos e não-farmacológicos, além do uso de hemoderivados, que não são isentos do risco de transmissão de doenças causadas por transfusão sanguínea.
+Assim, em necessidades cirúrgicas e tratamentos intensivos, a anticoagulação deve ser interrompida e substituída, na medida do possível, por heparina não-fracionada ou de baixo peso molecular.
+A manutenção da efetividade e da segurança da dose de warfarina é extremamente dependente do controle laboratorial do INR, que deverá estar em nível terapêutico para cada indicação clínica, geralmente de 2,00 a 3,00. Exceto em assistência circulatória mecânica, prótese mecânica em posição mitral e na síndrome antifosfolipídica, o INR deverá estar entre 2,50 e 3,50.
+A importância do controle é demonstrada pelos resultados de diversos estudos clínicos, segundo os quais os distúrbios trombo-hemorrágicos ocorrem quando os níveis de anticoagulação estão fora dos parâmetros preestabelecidos e a segurança é conseguida em níveis terapêuticos.
+O arsenal terapêutico para reversão da anticoagulação é realizado com vitamina K1 (fitomenadiona), plasma fresco congelado, complexo protrombínico e fator VIIa recombinante.
+Vitamina K
+A fitomenadiona (vitamina K1) é um fator pró-coagulante. Sendo componente do sistema carboxilase hepático, a vitamina K1 está relacionada à carboxilação pós-translacional dos fatores de coagulação II (protrombina), VII, IX e X, e dos inibidores da coagulação, proteínas C e S. Os cumarínicos inibem a redução da vitamina K1 (forma quinona) para vitamina K1 hidroquinona e também previne a redução para a forma quinona da vitamina K1-epóxido, que se forma após a carboxilação; portanto, é um antagonista dos anticoagulantes tipo warfarina.
+A vitamina K1 é solubilizada por meio de um sistema coloidal fisiológico de micelas, composto por ácido biliar lectina. O sistema de micelas mistas é caracterizado por melhor tolerabilidade tanto local como sistêmica.
+A administração da vitamina K1 pode ser realizada por via endovenosa ou por via oral. Doses orais de vitamina K1 são absorvidas principalmente na porção média do intestino delgado, e a absorção ótima requer a presença de bile e suco pancreático. A biodisponibilidade sistêmica após administração oral é de aproximadamente 50%, com grande variação individual. O início da ação ocorre aproximadamente uma a três horas após administração endovenosa, e de quatro a seis horas após administração oral. A absorção intestinal de vitamina K1 é prejudicada por várias condições, incluindo síndromes de má absorção, síndrome do intestino curto, atresia biliar e insuficiência pancreática. Pacientes idosos anticoagulados são mais sensíveis que jovens aos efeitos da vitamina K1 por via parenteral.
+A vitamina K1 é rapidamente convertida em metabólitos mais polares, incluindo a vitamina K1-2-3-epóxido. Alguns outros metabólitos são convertidos em vitamina K1.
+Após degradação metabólica, a vitamina K1 é excretada na bile e na urina na forma de glucuronídeos e sulfoconjugados. Menos de 10% da dose são excretados pela urina na forma inalterada. A meia-vida de eliminação em adultos é de cerca de quatro a seis horas.
+A ampola da vitamina K1 deve ser protegida da luz, devendo ser armazenada em temperaturas inferiores a 25ºC. Há relatos de reações anafiláticas relacionadas. Duas apresentações são encontradas no comércio: ampolas de 1 ml contendo 10 mg e ampolas de 0,2 ml contendo 2 mg para uso em pediatria.
+Em nossa experiência, o uso oral é superior, na maioria dos casos, ao endovenoso. Por apresentar gosto não agradável, deve, se possível, ser diluído em suco de laranja.
+Plasma fresco congelado
+O concentrado de plasma fresco congelado é obtido por meio de centrifugação a partir de uma bolsa de sangue total, e cada unidade contém, em média, 200 ml a 250 ml de volume, constituído de proteínas e de fatores da coagulação e da anticoagulação.
+O plasma fresco está indicado em pacientes com processos hemorrágicos por deficiências múltiplas de fatores de coagulação, secundárias à anticoagulação oral. Para ser administrado, deverá ser descongelado em equipamento especial ou banho-maria em temperaturas entre 30oC e 37oC, e infundido por meio de filtros apropriados.
+No entanto a dose é muito variável, dependendo da situação clínico-cirúrgica do paciente, normalmente sendo utilizado o parâmetro de 10 ml/kg a 20 ml/kg de peso do paciente, com infusão realizada no máximo em quatro horas.
+É necessário conhecer alternativas terapêuticas antes do uso de plasma fresco congelado na reversão da anticoagulação, pois apresenta risco transfusional de transmissão de hepatites e HIV e pode predispor a reações alérgicas, lesão pulmonar aguda associada à transfusão, sobrecarga volumétrica ou hipotensão na presença de cininas vasoativas em seu conteúdo.
+Complexo protrombínico
+O concentrado do complexo protrombínico é utilizado em casos restritos de pacientes com intoxicação warfarínica com hemorragia importante e/ou pacientes que não possam receber grandes volumes e apresentam distúrbios da hemostasia decorrente da anticoagulação oral.
+O hemoderivado é de grande valia em pacientes que estão anticoagulados com anticoagulantes orais e necessitam ser submetidos a procedimentos cirúrgicos de emergência ou que apresentam elevados índices de anticoagulação e hemorragia com risco de morte.
+O uso de concentrado protrombínico atualmente deve ser considerado como primeira escolha antes do plasma fresco congelado, por apresentar significativa redução de fenômenos adversos relacionados a doenças infecto-contagiosas relacionadas à transfusão. Os concentrados atualmente produzidos apresentam, em sua composição, fatores do sistema de anticoagulação (antitrombina, proteína C e S), minimizando o risco de fenômenos tromboembólicos anteriormente verificados em meados das décadas de 1980 e 1990.
+A dose preconizada de complexo protrombínico é calculada por meio da monitorização da atividade protrombínica; dessa maneira, a administração de uma unidade por quilo de peso do paciente aumenta em 1% a atividade protrombínica, sendo importante lembrar que o paciente que faz uso de anticoagulação oral apresenta elevado risco trombótico, e que o período de normalização do padrão hemostático deverá ser efêmero.
+O efeito do complexo protrombínico na reversão da anticoagulação é esperado 30 a 40 minutos após sua administração; se possível, não se deve realizar a normalização total da hemostasia para 100% da atividade protrombínica.
+A administração poderá ser repetida tendo por base o nível sérico na meia-vida dos fatores a serem corrigidos, na atividade protrombínica e na presença de sangramento persistente. A dose inicial poderá ser integralmente repetida a cada seis a 12 horas ou enquanto forem mantidas as alterações laboratoriais em presença de distúrbios hemorrágicos.
+Fator VIIa recombinante
+O fator VII ativado recombinante foi originalmente idealizado para ser administrado a pacientes com deficiência congênita ou adquirida do fator VII ou a hemofílicos portadores de inibidores do fator VIII:C ou IX, sendo a única aprovação no momento registrada pela "Food and Drug Administration" (FDA), como agente hemostático, nos Estados Unidos. No entanto, tem sido utilizado em várias situações de hemorragia com grande eficácia e sem apresentar efeitos adversos relevantes. As publicações demonstram que o agente hemostático é eficaz e seguro, podendo ser usado como medida coadjuvante para alcançar o controle do fenômeno hemorrágico.
+Em circunstâncias especiais e "fora de bula", é também utilizado para reversão de anticoagulação oral com sangramento grave e em pacientes submetidos a cirurgia cardíaca de emergência.
+A posologia preconizada varia de 15 µg/kg a 120 µg/kg, infundidos por via endovenosa a cada duas a seis horas, conforme a evolução clínica e o controle do sangramento. A infusão em bolo é a preconizada, devendo-se evitar a infusão contínua.
+CONDUTAS BASEADAS NO ÍNDICE DE NORMALIZAÇÃO INTERNACIONAL
+Níveis de INR
+A maioria das entidades nosológicas com indicação de anticoagulação deverá estar com o INR entre 2,00 e 3,00, exceto na prótese mecânica em posição mitral, na assistência mecânica e na síndrome antifosfolipídica, em que o INR deverá estar entre 2,50 e 3,50.
+INR entre o nível terapêutico e 5,00
+Conduta:
+- Correção da dose.
+INR entre 5,01 e 10,0 sem sangramento
+Conduta:
+- Suspender anticoagulante.
+- Administrar vitamina K (1 mg a 2,5 mg) por via oral.
+- Em paciente com elevado risco hemorrágico, considerar o uso de plasma fresco ou concentrado protrombínico.
+- Controle do INR em 24 horas.
+- Se necessário, administrar doses adicionais de vitamina K (1 mg a 2,5 mg) por via oral, até INR inferior a 3,50.
+- Reiniciar com redução de 50% da dose semanal.
+- Novo controle em 72 horas.
+INR maior que 10,1 sem sangramento
+Conduta:
+- Observação em ambiente hospitalar.
+- Suspender anticoagulante.
+- Administrar vitamina K (1 mg a 5,0 mg) por via oral.
+- Em paciente com elevado risco hemorrágico, considerar o uso de plasma fresco ou concentrado protrombínico.
+- Controle do INR em 12 horas.
+- Se não houver redução do INR, administrar doses adicionais de vitamina K (1 mg a 5,0 mg) por via oral, com novo controle entre 12 a 24 horas, até INR inferior a 3,50.
+- Reiniciar com redução de 50% da dose semanal.
+- Novo controle em 72 horas.
+INR acima do nível terapêutico com sangramento e risco de morte
+Conduta:
+- Suspender anticoagulante.
+- Administrar plasma fresco ou concentrado protrombínico.
+- Administrar vitamina K (1 mg a 10 mg) por via endovenosa.
+- Doses adicionais poderão ser administradas.
+- Corrigir causa cirúrgica, se houver.
+- Providenciar suporte médico intensivo, se necessário, e aporte hemoterápico.
+INR acima do nível terapêutico com sangramento sem risco de morte
+Conduta:
+- Suspender anticoagulante.
+- Considerar administração de plasma fresco ou concentrado protrombínico.
+- Administrar vitamina K por via endovenosa (1 mg a 10 mg).
+- Doses adicionais poderão ser administradas.
+- Corrigir causa cirúrgica, se houver.
+- Suporte médico.
+Manuseio da anticoagulação com interrupção temporária para realização de procedimentos de baixo risco trombo-hemorrágico (procedimentos odontológicos, dermatológicos simples, cateterismo por punção do braço)
+- Anticoagulação é mantida com monitorização do INR entre 2,00 e 2,50.
+- Retardar dose do anticoagulante em seis horas do procedimento, retornando se não apresentar distúrbio hemorrágico.
+- O procedimento deverá ser realizado com técnica esmerada, utilizando-se hemostáticos locais (ácido épsilon aminocapróico ou ácido tranexâmico).
+Manuseio da anticoagulação com interrupção temporária para realização de procedimentos de moderado risco trombo-hemorrágico (anticoagulação plena por fibrilação atrial sem acidente vascular cerebral isquêmico prévio, evento tromboembólico há mais de três meses e com desaparecimento do fator causal)
+- Suspender anticoagulação oral cinco dias antes do procedimento.
+- Iniciar heparina de baixo peso molecular ou heparina não-fracionada quando INR < 2,00.
+- Considerar vitamina K (1,0 mg a 2,0 mg) por via oral, se necessário.
+- Suspender heparina de baixo peso molecular entre 12 e 24 horas do procedimento e heparina não-fracionada em 12 horas do procedimento.
+- Retornar o uso da anticoagulação oral após seis horas da realização do procedimento ou até estabilização hemostática.
+- Retornar administração de heparina de peso molecular ou heparina não-fracionada após seis horas do procedimento.
+- Manter administração de heparina de baixo peso molecular ou heparina não-fracionada até INR 2,00.
+Manuseio de anticoagulação com interrupção temporária para a realização de procedimento de elevado risco trombo-hemorrágico (anticoagulação plena por fibrilação atrial com doença valvular, em paciente com mais de 75 anos de idade, na presença de disfunção ventricular, com evento tromboembólico há menos de três meses ou há mais de três meses com manutenção do fator de risco desencadeante, por prótese cardíaca mecânica ou no pré-operatório de tromboendarterectomia de artéria pulmonar)
+- Suspender anticoagulação oral por cinco dias antes do procedimento.
+- Iniciar heparina de baixo peso molecular quando INR < 2,00.
+- Considerar vitamina K (1,0 mg a 2,0 mg) por via oral, se necessário.
+- Iniciar heparina não-fracionada em 24 horas do procedimento por via endovenosa na dose de 10 UI/kg/hora a 15 UI/kg/hora, mantendo relação do tempo de tromboplastina parcial ativada entre 1,70 e 2,50.
+- Suspender duas horas do procedimento com retorno após seis horas.
+- Reiniciar anticoagulação após cessar o risco hemorrágico.
+CONDUTAS ESTIMULADAS NA ANTICOAGULAÇÃO ORAL
+- Preferencialmente utilizar warfarina.
+- A warfarina deverá sempre ser administrada com intervalo de uma hora das refeições, se possível com suco de laranja, pois sua absorção é melhor em meio ácido (nunca deve ser tomada com leite).
+- Não suspender a dieta com base em verduras (folhas verdes), apenas orientar o paciente para que tenha uma alimentação sem grandes variações (é importante frisar que significativo número de pacientes é de vegetarianos).
+- O uso de antiinflamatórios não-hormonais predispõe a maior risco hemorrágico.
+- É sugerido que o INR seja monitorado após uma semana da introdução de medicamento novo.
+- Evitar o uso concomitante de antiagregantes plaquetários; se houver necessidade, associar apenas uma droga antiplaquetária.

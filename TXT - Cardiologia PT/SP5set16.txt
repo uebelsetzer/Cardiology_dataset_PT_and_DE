@@ -1,0 +1,51 @@
+Ultra-som intracoronário: por que e quando indicar?
+<Autor(es): Andrea Sousa Abizaid, Alexandre Abizaid>
+POR QUE INDICAR? DEFINIÇÃO E PRINCÍPIOS
+O ultra-som intracoronário é uma modalidade invasiva, que tem por base a aquisição de imagens tomográficas a partir do interior da artéria coronária, utilizando-se um cateter que tem incorporado na sua extremidade um único transdutor.
+É um método capaz de prover avaliações tomográficas bidimensionais das coronárias "in vivo", permitindo identificar os componentes das placas ateromatosas e da parede vascular, além de mensurar com alta precisão a luz arterial (1-3). Adicionalmente, o ultra-som intracoronário elimina as limitações observadas com o uso da angiografia. Possibilita a avaliação correta da área de secção transversal em todos os segmentos do vaso estudado, permitindo a identificação de placas de ateroma em diferentes estágios de sua evolução, além de tornar factível a identificação dos diversos componentes da placa.
+Dois sistemas são disponíveis para o registro das imagens: o primeiro deles é o eletrônico, no qual o ultra-som é produzido no console principal e transmitido para o interior das coronárias por meio de fibras ópticas. O segundo é o mecânico, no qual o ultra-som é gerado na extremidade do cateter, que é posicionado no interior dos vasos a serem estudados (4).
+O equipamento utilizado para se obter as imagens intracoronárias consta basicamente de um monitor, um teclado de comando, uma impressora e um vídeo de alta resolução.
+Quando indicar?
+Avaliação das lesões coronárias moderadas
+Alguns estudos foram idealizados na tentativa de se estabelecer critérios ultra-sonográficos que diferenciassem as lesões do ponto de vista prognóstico, somente em pacientes com obstruções moderadas à angiografia coronária (5-7).
+Abizaid e colaboradores estudaram retrospectivamente 300 pacientes com lesões angiograficamente moderadas, nos quais a intervenção não fora realizada, decisão esta baseada em critérios ultra-sonográficos (7). Em um ano de acompanhamento clínico, ocorreram 8% de eventos cardíacos maiores combinados. O único fator com valor prognóstico independente para eventos cardíacos, no seguimento tardio, foi a gravidade da estenose obtida pelo ultra-som, avaliada pela área mínima da luz (Fig. 1).
+<Figura 1. Em uma casuística de 300 pacientes com lesões intermediárias, seguidas por um ano, verificamos o que se observa nos gráficos acima. Em A, nota-se que a ocorrência de eventos cardíacos adversos (morte, infarto do miocárdio [IM] e necessidade de revascularização da lesão-alvo [RLA]) diminui à medida que a área mínima da luz avaliada pelo ultra-som aumentou. Em B, a decisão por revascularização da lesão-alvo [RLA] diminuiu com o aumento da área mínima da luz. Há uma nítida linha de corte entre valores maiores e menores que 4,0 mm2, tanto para os eventos combinados como para a revascularização da lesão-alvo. n = número de pacientes.> <figura>
+Posteriormente, em uma investigação prospectiva, que avaliou 176 pacientes com estenoses coronárias angiograficamente moderadas, achou-se que, de acordo com o critério ultra-sonográfico de área mínima da luz, 43% desses pacientes apresentaram lesões não importantes e foram mantidos em acompanhamento clínico (área mínima da luz > 4,0 mm2) e em 57% as lesões foram consideradas graves e tratadas por intervenção percutânea (área mínima da luz < 4,0 mm2) (8). O impacto clínico da tomada de decisão baseada nesse critério ultra-sonográfico foi muito favorável, verificando-se taxa global de 11% de eventos clínicos maiores em cerca de dois anos de evolução.
+Avaliação de lesões duvidosas no tronco da coronária esquerda
+Três fatores anatômicos comprometem a avaliação angiográfica do tronco da coronária esquerda:
+a dificuldade de visualizar de maneira precisa o tronco da coronária esquerda por opacificação da cúspide aórtica;
+a pequena extensão do tronco da coronária esquerda;
+a presença de bifurcação ou trifurcação pode ocultar a parte distal do tronco da coronária esquerda.
+Não existe consenso na literatura com relação a parâmetros ultra-sonográficos para se intervir ou não em lesões duvidosas localizadas no tronco da coronária esquerda. A porcentagem de estenose > 50% (comparado com a área do lúmen de referência), o diâmetro mínimo da luz < 3 mm e/ou a área mínima absoluta da luz arterial < 6 mm2 têm sido considerados critérios satisfatórios para indicação de intervenção cirúrgica ou percutânea (9, 10).
+Detecção de placas instáveis
+Uma aplicação potencial do ultra-som intracoronário tem sido a identificação do ateroma com risco de rotura (11-15). A histologia das placas instáveis usualmente revela ateroma rico em lipídios com capa fibrótica fina (16, 17). O ultra-som também tem demonstrado a associação das placas ecoluscentes, ricas em lipídios, geralmente com a presença de lagos lipídicos e capa fibrótica delgada com síndromes coronarianas agudas (18-22). Recentemente, outro dado ultra-sonográfico tem sido associado às síndromes instáveis, que é a presença do remodelamento arterial positivo (23-25). Além disso, trombos intraluminais, fissuras ou rotura na placa são considerados marcadores da síndrome coronariana aguda (26-30).
+Ultra-som como método-guia para implante de stent
+Stents não-recobertos
+O emprego do ultra-som intracoronário para monitorar o perfeito implante dos stents não é feito de maneira rotineira.
+Foram, assim, idealizados quatro estudos multicêntricos comparando o ultra-som à angiografia coronária quantitativa, com o objetivo de definir o método-guia superior para a obtenção do implante ótimo do stent. Esses estudos confirmaram o conceito de que quanto maior a área luminal final intra-stent menores os índices de reestenose (Fig. 2) (31). Entretanto, os resultados finais não mostraram diferença significativa no que diz respeito à reestenose entre o grupo guiado pelo ultra-som e o guiado pela angiografia (32) (Tab. 1).
+<Figura 2. Incidência de revascularização da lesão-alvo em um ano, de acordo com a área mínima da luz intra-stent (AML) ao final do procedimento em pacientes com e sem diabetes. n = número de pacientes; L = lesões.> <figura>
+<Tabela 1. Sumário dos resultados observados nos estudos randomizados, que compararam o ultra-som e a angiografia coronária quantitativa como guia para o implante do stent coronário.> <tabela>
+Os critérios para decisão da qualidade do implante ótimo são os seguintes:
+Aposição completa das hastes do stent: trata-se de um critério visual, segundo o qual todas as hastes do stent devem estar apostas à placa ou à parede do vaso, ou seja, não deve haver espaços entre quaisquer hastes e o limite interno da parede vascular ou a placa aterosclerótica.
+Expansão ótima do stent: trata-se de critério quantitativo, segundo o qual a área mínima da luz intra-stent deve atingir pelo menos 80% da média das áreas das luzes das referências proximal e distal do vaso-alvo ou a área mínima da luz intra-stent deve ser maior ou igual a 7,5 mm2 (Fig. 3).
+<Figura 3. Exemplo de expansão adequada. A área mínima da luz intra-stent (AML) (B) atingiu mais de 80% (92%) da média aritmética das áreas de referência proximal (A) e distal (C) do vaso-alvo. Neste caso, o segundo critério ultra-sonográfico de expansão ótima também se verifica: AML > 7,5 mm2 (valor encontrado: 7,9 mm2).> <figura>
+Stents farmacológicos
+Os stents farmacológicos reduziram de maneira dramática os índices de reestenose angiográfica e a necessidade de revascularização da lesão-alvo em pacientes selecionados (33-35).
+A Figura 4 sumariza os índices de porcentual de hiperplasia neointimal entre os estudos que englobam os stents recobertos com sirolimus e derivados, os stents recobertos com paclitaxel e os stents não-recobertos.
+1. Expansão ótima dos stents farmacológicos
+No implante dos stents farmacológicos deve-se, a exemplo dos stents não-recobertos, buscar um resultado ótimo ao final do procedimento. Entretanto, o critério quantitativo de área mínima da luz intra-stent tornou-se um pouco menos rígido (área mínima da luz intra-stent > 5,0 mm2) ao final do procedimento. Isso se deve à marcante inibição da hiperplasia neointimal que esses stents oferecem no seguimento tardio.
+2. O problema do "efeito de bordas"
+No implante dos stents farmacológicos deve-se tomar cuidado na prevenção do chamado efeito de bordas. No estudo SIRIUS, o aumento dos índices de reestenose angiográfica de 3% (análise da lesão) para 9% (análise do segmento) demonstra claramente o problema do efeito de bordas nesses pacientes, ocasionado provavelmente pela inclusão de pacientes mais complexos e por problemas relacionados à técnica dos procedimentos (35).
+3. Vantagens da utilização do ultra-som intracoronário na era dos stents farmacológicos
+a. Pré-intervenção:
+avaliação precisa da extensão da lesão;
+avaliação precisa do tamanho do vaso;
+melhor avaliação para implante do stent direto.
+b. Pós-intervenção:
+avaliação precisa da aposição das hastes do stent;
+evitar "gaps" (implante de > 2 stents);
+possibilidade de cobrir toda a extensão da lesão.
+4. Três cuidados fundamentais no implante dos stents farmacológicos
+cobrir todo o segmento doente (evitar "spot stent");
+quando da necessidade de > 2 stents, nunca deixe "gaps" entre eles (faça sempre o "overlap");
+cuidado na pós-dilatação (o balão escolhido deve ser sempre menor que o stent).

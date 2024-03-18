@@ -1,0 +1,201 @@
+Atualização das indicações de marcapasso e desfibriladores cardíacos
+<Autor(es): Juan Carlos Pachón Mateos, José Carlos Pachón Mateos, Maria Zélia C. Pachón, Enrique Indalecio Pachón Mateos>
+INTRODUÇÃO
+Neste artigo, as indicações de marcapasso e de cardioversores-desfibriladores cardíacos foram sintetizadas a partir da literatura especializada, (1) sobretudo de três referências principais: 1. Diretrizes da Sociedade Brasileira de Cardiologia; (2) 2. Diretrizes do Departamento de Estimulação Cardíaca Artificial Deca; e 3. Diretrizes da "American Heart Association". (3) Além disso, foram atualizadas com informações muito recentes resultantes da experiência dos autores.
+Antes da abordagem detalhada das indicações, é conveniente considerarmos alguns princípios básicos da estimulação cardíaca:
+a. O marcapasso definitivo está indicado sempre que existir bradicardia sintomática e irreversível ou risco de bradicardia grave relacionada a causas não removíveis.
+b. Quando a causa é transitória ou removível deve-se tentar tratamento farmacológico ou marcapasso temporário.
+c. Os átrios devem ser estimulados e/ou detectados, sempre que possível, procurando-se manter o sincronismo atrioventricular em repouso e durante o exercício.
+d. Os ventrículos devem ser estimulados na presença ou risco de bloqueio atrioventricular.
+e. A estimulação ventricular isolada somente é aceitável quando os átrios não são aproveitáveis, tais como na fibrilação atrial crônica ou em situações especiais (crianças, idade muito avançada, dificuldade técnica, doenças consumptivas, etc.).
+f. A resposta cronotrópica deve ser mantida, seja por seguimento do nó sinusal com marcapasso atrioventricular fisiológico ou por utilização sistemática de biossensores.
+g. Além do sincronismo atrioventricular, deve-se zelar pelo sincronismo ventricular, procurando estimular com QRS estreito (aproveitando a condução atrioventricular normal com programação adequada, evitando ao máximo a estimulação ventricular ou utilizando ressincronizadores). Essa recomendação é tanto mais importante quanto mais comprometido e dilatado for o ventrículo esquerdo.
+De modo geral, as indicações são classificadas em três grupos, conforme sejam definitivamente recomendadas, aceitáveis ou contra-indicações. A correspondência e o conteúdo dos critérios das diferentes sociedades estão demonstrados na Tabela 1.
+<Tabela 1. Classificação das indicações de marcapasso e desfibriladores conforme as diretrizes da AHA/ACC (American Heart Association/American College of Cardiology), Deca (Departamento de Estimulação Cardíaca Artificial da Sociedade Brasileira de Cirurgia Cardiovascular), e SBC/Daec (Sociedade Brasileira de Cardiologia/Departamento de Arritmias e Eletrofisiologia Clínica da Sociedade Brasileira de Cardiologia).> <tabela>
+BRADIARRITMIAS
+Considera-se bradiarritmia freqüência cardíaca menor que 60 bpm. Esse conceito é relativo à situação metabólica e à idade do paciente, mesmo porque freqüência cardíaca de 50 bpm ou menos é normal durante o sono ou em pacientes idosos, assim como freqüência de 70 bpm é bradicárdica em recém-nascidos ou em pacientes com febre. Isso demonstra que o diagnóstico de bradiarritmia depende do quadro clínico do paciente. (4)
+De forma simplificada, as causas de bradiarritmias podem ser agrupadas, conforme critérios anatomofuncionais, em quatro grupos:
+a. causas autonômicas (síndrome do seio carotídeo (5) e síndromes neuromediadas (6));
+b. doença do nó sinusal (bradicardia, parada sinusal, síndrome bradi-taquicardia);
+c. bloqueios atrioventriculares (1o, 2o e 3o graus);
+d. bloqueios intraventriculares (fasciculares e de ramo).
+As causas autonômicas são essencialmente a síndrome do seio carotídeo e a síncope neurocardiogênica. A primeira condição geralmente está associada a doença do nó sinusal e comumente ocorre nos idosos. O marcapasso é necessário nos pacientes com sintomas espontâneos e claramente portadores da síndrome do seio carotídeo. Por outro lado, a síncope neurocardiogênica é muito freqüente, ocorre comumente em pessoas jovens e em geral responde ao tratamento clínico. O marcapasso somente está indicado numa minoria de casos graves que não respondem à medicação. Entretanto, recentemente, Pachón e colaboradores desenvolveram uma técnica que permite o tratamento da maioria desses pacientes por meio de ablação por radiofreqüência, não sendo necessário implante de marcapasso.
+Até o momento, a indicação de marcapasso para portadores de síncope neurocardiogênica baseia-se nas recomendações apresentadas a seguir:
+Classe I:
+- Nenhuma.
+Classe II:
+- Síncope associada a importante componente cardioinibitório, documentado por teste de inclinação ("tilt-test"), claramente refratária ao tratamento farmacológico.
+Classe III:
+- Boa resposta ao tratamento clínico.
+- Síndrome do seio carotídeo.
+A indicação de marcapasso para portadores de síndrome do seio carotídeo hipersensível baseia-se nas recomendações descritas a seguir:
+Classe I:
+- Síncope recorrente originada por condições que envolvem situações cotidianas, que estimulam o seio carotídeo em pacientes com assistolia > 3 s por MSC na ausência de medicamentos depressores da função sinusal e condução atrioventricular.
+Classe II:
+- Síncope recorrente sem história clínica sugestiva de hipersensibilidade do seio carotídeo, mas com resposta hipersensível cardioinibidora a MSC.
+Classe III:
+- Importante resposta cardioinibidora a MSC na ausência de sintomas clínicos síncopes ou quedas.
+DOENÇA DO NÓ SINUSAL
+A bradicardia sinusal é a manifestação mais freqüente dessa condição, podendo ser funcional, orgânica ou farmacológica. A bradicardia funcional ocorre nas pessoas condicionadas fisicamente para os esportes, na estenose aórtica, na hipertensão arterial não-adrenérgica, na vagotonia primária, etc. A bradicardia sinusal de origem orgânica ocorre na verdadeira doença do nó sinusal por causa da degeneração e da destruição das células "P", de transição e de Purkinje, freqüentemente ocasionadas por miocardioesclerose, coronariopatias, miocardiopatias, miocardite, doenças infiltrativas (como a amiloidose), colagenoses ou, ainda, por traumatismo direto do nó sinusal, que pode ocorrer durante cirurgia cardíaca. (7) A bradicardia sinusal de origem farmacológica é de grande importância diagnóstica, tendo em vista estar relacionada com iatrogenia. Comumente aparece nos pacientes que utilizam betabloqueadores, antiarrítmicos, como a amiodarona, digital ou determinados anti-hipertensivos que depletam as catecolaminas. Os principais achados eletrocardiográficos na doença do nó sinusal são:
+1. bradicardia sinusal;
+2. bloqueio sinoatrial;
+3. parada sinusal;
+4. ritmo de escape juncional;
+5. pausa longa pós-extra-sístoles supraventriculares;
+6. fibrilação atrial com baixa freqüência ventricular;
+7. instabilidade de ritmo pós-cardioversão;
+8. síndrome bradi-taquicardia.
+As recomendações para implante de marcapasso definitivo na doença do nó sinusal (8) são:
+Classe I:
+- Doença do nó sinusal espontânea, irreversível ou induzida por fármacos necessários e insubstituíveis, com sintomas de síncope, pré-síncope ou tontura e/ou IC relacionados a bradicardia.
+- Síndrome bradi-taquicardia.
+- Doença do nó sinusal com intolerância aos esforços claramente relacionada à incompetência cronotrópica.
+Classe II:
+- Doença do nó sinusal irreversível ou induzida por fármacos necessários e insubstituíveis, com sintomas de síncope, pré-síncope ou tontura não claramente relacionados a bradicardia, tendo sido afastadas outras causas para os sintomas.
+- Bradiarritmia sinusal que desencadeia ou agrava IC, angina do peito ou taquiarritmias.
+- Síncope de origem desconhecida, com importante disfunção sinusal detectada por estudo eletrofisiológico.
+Classe III:
+- Em pacientes assintomáticos.
+- Em pacientes com sintomas comprovadamente independentes da bradicardia.
+BLOQUEIOS ATRIOVENTRICULARES
+<Figura 1. Esquema dos bloqueios atrioventriculares.> <figura>
+Os bloqueios atrioventriculares (9) podem causar bradicardia, apesar da freqüência sinusal ser normal (nos casos sem doença sinusal associada) e, quando irreversíveis, freqüentemente necessitam de implante de marcapasso. São divididos em bloqueios de 1o, 2o e 3o graus (Fig. 1). A indicação de marcapasso depende da presença de sintomas e/ou da localização dos bloqueios, que pode ser nodal ou infranodal. Tipicamente os infranodais são graves e necessitam quase sempre de implante de marcapasso.
+A seguir estão apresentadas algumas recomendações para implante de marcapasso definitivo em pacientes com bloqueio atrioventricular: (10)
+Bloqueio atrioventricular de 1o grau (11)
+Classe I:
+- Nenhuma.
+Classe II:
+- Irreversível, com síncopes, pré-síncopes ou tonturas, de localização intra ou infra-His, com agravamento por estimulação atrial ou teste farmacológico.
+- Sintomas conseqüentes à falta de sincronismo atrioventricular.
+Classe III:
+- Assintomático.
+Bloqueio atrioventricular de 2o grau (12)
+Classe I:
+- Permanente ou intermitente, irreversível ou causado por drogas necessárias e insubstituíveis, independentemente do tipo e da localização, com sintomas definidos de baixo fluxo cerebral e/ou IC conseqüentes a bradicardia.
+- Tipo II, com QRS largo ou infra-His, assintomático, permanente ou intermitente e irreversível.
+- "Flütter" ou fibrilação atrial crônicos irreversíveis, sem possibilidade de tratamento intervencionista, com períodos de resposta ventricular baixa, em pacientes com sintomas definidos de baixo fluxo cerebral e/ou IC conseqüentes a bradicardia.
+— Classe II:
+- Avançado, adquirido, assintomático, permanente ou intermitente e irreversível.
+- Tipo II, com QRS estreito, assintomático, permanente ou intermitente e irreversível.
+- Assintomático, permanente ou intermitente e irreversível.
+- Com QRS estreito, assintomático, persistente após 15 dias de cirurgia cardíaca ou infarto agudo do miocárdio.
+- Irreversível, assintomático, associado a arritmias ventriculares que necessitam de tratamento com fármacos insubstituíveis, depressores da condução atrioventricular.
+- "Flütter" ou fibrilação atrial crônicos irreversíveis, sem possibilidade de tratamento intervencionista, assintomáticos, com freqüência ventricular média < 40 bpm em vigília, espontânea ou por uso de fármaco necessário e insubstituível.
+Classe III:
+- Tipo I, assintomático, com normalização da condução atrioventricular com exercício e/ou atropina intravenosa.
+Bloqueio atrioventricular total
+— Classe I:
+- Permanente ou intermitente, irreversível, de qualquer etiologia ou local, com sintomas de hipofluxo cerebral e/ou IC conseqüentes a bradicardia.
+- Assintomático, conseqüente a infarto agudo do miocárdio, persistente > 15 dias.
+- Assintomático, após cirurgia cardíaca, persistente >15 dias, QRS largo.
+- Assintomático, irreversível, intra/infra-His, ou ritmo de escape infra-His.
+- Assintomático, irreversível, QRS estreito, com indicação de antiarrítmicos depressores do ritmo de escape.
+- Adquirido, irreversível, assintomático, com freqüência cardíaca média < 40 bpm na vigília e sem resposta adequada ao exercício.
+- Irreversível, assintomático, com assistolia > 3 s na vigília.
+- Irreversível, assintomático, com cardiomegalia progressiva.
+- Congênito, (13) assintomático, com ritmo de escape de QRS largo ou com freqüência cardíaca inadequada para a idade.
+- Adquirido, assintomático, de etiologia chagásica ou esclerodegenerativa.
+- Irreversível, permanente ou intermitente, conseqüente à ablação da junção atrioventricular.
+Classe II:
+- Em conseqüência da cirurgia cardíaca assintomática, persistente > 15 dias, com QRS estreito ou ritmo de escape nodal e boa resposta cronotrópica.
+- Conseqüente à cirurgia cardíaca sem perspectiva de reversão antes de 15 dias.
+- Congênito assintomático, com QRS estreito, má resposta cronotrópica, sem cardiomegalia, com arritmia ou QT longo.
+- Congênito, com QRS estreito, boa resposta cronotrópica, sem cardiomegalia, com arritmia ou QT longo.
+Classe III:
+- Transitório por ação medicamentosa, processo inflamatório agudo, cirurgia cardíaca, ablação ou outra causa reversível.
+BLOQUEIOS INTRAVENTRICULARES (14)
+Aparentemente, com intenção de garantir a estimulação ventricular e otimizar o sincronismo do miocárdio ventricular, a evolução natural constituiu três ramos (fascículos) principais no sistema de condução intraventricular. Esses ramos funcionam como três eletrodos de marcapasso, de forma que a estimulação ventricular persiste pelo terceiro mesmo tendo havido o bloqueio dos outros dois. Essa concepção corresponde ao sistema de condução trifascicular, constituído pelos fascículos ântero-superior e póstero-inferior (que se originam do ramo esquerdo) e pelo ramo direito, que corresponde ao terceiro fascículo. Os bloqueios fasciculares não reduzem a freqüência cardíaca, que se mantém desde que pelo menos um fascículo esteja conduzindo; no entanto, se ocorrer bloqueio nos três ao mesmo tempo, surgem os bloqueios atrioventriculares de 2o e 3o graus. O eletrocardiograma nos informa se existe bloqueio unifascicular, bifascicular e, eventualmente, trifascicular. O cardiologista deve estar atento para as lesões progressivas dos fascículos, que podem terminar em bloqueio atrioventricular completo. Quando não se tem certeza do grau de comprometimento do sistema de condução intraventricular e/ou atrioventricular, deve ser realizado estudo eletrofisiológico invasivo (eletrograma do feixe de His) para que se possa verificar a extensão, a localização e o prognóstico das lesões. Esse estudo permite medir o intervalo HV (tempo decorrido entre a despolarização do feixe de His e a despolarização inicial da musculatura ventricular). Quando maior que 70 ms existe alto risco de evolução para bloqueio atrioventricular total permanente ou intermitente, devendo ser considerado o tratamento com marcapasso definitivo (2).
+Os hemibloqueios isolados não necessitam de tratamento e não são indicativos de marcapasso. Entretanto, seu reconhecimento é essencial, pois podem indicar a presença de um processo evolutivo para bloqueio atrioventricular completo. Atualmente são reconhecidos também fascículos do ramo direito, porém têm menor significado clínico.
+A prevalência dos bloqueios intraventriculares em indivíduos normais é baixa. Na presença de cardiopatia ou sintomas de baixo fluxo cerebral, o prognóstico é pior e pode estar relacionado com maior incidência de bloqueio atrioventricular total e morte súbita. Dependendo da situação clínica, a indicação de marcapasso exige investigação criteriosa.
+Classe I:
+- Bloqueio de ramo alternante com síncopes, pré-síncopes ou tonturas recorrentes.
+Classe II:
+- Intervalo HV > 70 ms ou com bloqueio intra ou infra-His induzido por estimulação atrial e/ou teste farmacológico, em pacientes com síncopes, pré-síncopes ou tonturas sem causa determinada.
+- Pacientes assintomáticos com intervalo HV > 100 ms.
+- Bloqueio bifascicular, associado ou não a bloqueio atrioventricular de 1o grau, com episódios sincopais sem documentação de bloqueio atrioventricular total paroxístico, tendo sido afastadas outras causas dos sintomas.
+- Bloqueio de ramo alternante, assintomático.
+Classe III:
+- Bloqueios unifasciculares assintomáticos, sem evidência de bloqueios de 2o ou 3o graus intermitentes.
+Observação: A literatura recente tem considerado que doenças neuromusculares, (15) como distrofia muscular miotônica, síndrome de Kearns-Sayre, distrofia de Erb e atrofia muscular peroneal com qualquer grau de bloqueio atrioventricular (incluindo bloqueio atrioventricular de 1o grau) ou com bloqueios fasciculares com ou sem sintomas, podem ser incluídas nas indicações de marcapasso classe II em decorrência da possibilidade de evolução imprevisível para graus avançados de bloqueio atrioventricular.
+Classe I
+Bloqueio atrioventricular de 2o ou 3o graus persistentes hissiano ou infra-hissiano.
+Bloqueio atrioventricular avançado transitório infranodal com bloqueio de ramo (se a localização do bloqueio é incerta, deve ser realizado um estudo eletrofisiológico invasivo).
+Bloqueio atrioventricular de 2o ou 3o graus persistente e sintomático.
+Classe II
+Bloqueio atrioventricular de 2o ou 3o graus persistente de localização nodal atrioventricular.
+RECOMENDAÇÕES PARA IMPLANTE DE MARCAPASSO APÓS A FASE AGUDA DO INFARTO DO MIOCÁRDIO (16-18)
+Classe III
+Bloqueio atrioventricular transitório na ausência de distúrbio da condução intraventricular.
+Bloqueio atrioventricular transitório na presença de bloqueio fascicular anterior esquerdo isolado.
+Bloqueio fascicular anterior esquerdo na ausência de bloqueio atrioventricular.
+Bloqueio atrioventricular de 1o grau persistente na presença de bloqueio de ramo anterior ao infarto agudo do miocárdio.
+PREVENÇÃO E TERMINAÇÃO DA FIBRILAÇÃO ATRIAL E OUTRAS TAQUIARRITMIAS (19)
+Classe I
+- Nenhuma.
+Classe II
+- Recorrente, com qualquer cardiomiopatia, de causas não reversíveis, refratária à medicação, comprovadamente relacionada à bradicardia.
+- Recorrente, com qualquer cardiomiopatia, de causa não-reversível, refratária às drogas antiarrítmicas e à ablação do foco arritmogênico, não relacionada à bradicardia, mas com comprovação de atraso de condução atrial por estudo eletrofisiológico ou eletrocardiografia de alta resolução.
+- Taquicardia ventricular dependente de pausa com ou sem intervalo QT prolongado quando a eficácia do marcapasso está documentada.
+- Pacientes de alto risco com síndrome do QT longo. (20)
+Classe III
+- Responsiva a terapêutica clínica e/ou ablação.
+- Associada a causas reversíveis.
+- Taquicardia ventricular tipo "torsade de pointes" de causas reversíveis.
+CARDIOMIOPATIA HIPERTRÓFICA OBSTRUTIVA (21)
+Recomendações de marcapasso em pacientes com cardiomiopatia hipertrófica obstrutiva.
+Classe I
+- Nenhuma.
+Classe II
+- Pacientes sintomáticos, com gradiente médio (ecocardiografia) de repouso > 30 mmHg ou > 55 mmHg (teste provocativo) refratários ao tratamento farmacológico, quando não houver indicação primária de cardiodesfibrilador implantável.
+Classe III
+- Pacientes com a forma não-obstrutiva.
+- Pacientes assintomáticos ou controlados por terapêutica farmacológica.
+- Pacientes com indicação de cardiodesfibrilador implantável.
+ESTIMULAÇÃO CARDÍACA ARTIFICIAL E INDICAÇÕES PARA O IMPLANTE DE RESSINCRONIZADORES CARDÍACOS (22, 23)
+ (MARCAPASSOS MULTISSÍTIO)
+A indicação de estimulação biventricular na cardiomiopatia dilatada baseia-se nas recomendações apresentadas a seguir.
+Classe I
+- Nenhuma.
+Classe II
+- Cardiomiopatia dilatada com insuficiência cardíaca grave e bloqueio intraventricular (QRS > 130 ms), diâmetro diastólico final do ventrículo esquerdo > 55 mm e fração de ejeção < 0,35, em condições clínicas estáveis nos últimos dois meses sob tratamento medicamentoso otimizado.
+- Cardiomiopatia dilatada com insuficiência cardíaca grave e bloqueio intraventricular (QRS > 130 ms), diâmetro diastólico final do ventrículo esquerdo > 55 mm e fração de ejeção < 0,35, em condições clínicas estáveis nos últimos dois meses sob tratamento medicamentoso otimizado em dependente de marcapasso convencional ou situações em que se comprove que a estimulação convencional é deletéria.
+- Cardiomiopatia dilatada com insuficiência cardíaca grave e bloqueio intraventricular (QRS > 130 ms), diâmetro diastólico final do ventrículo esquerdo > 55 mm e fração de ejeção < 0,35, em condições clínicas estáveis nos últimos dois meses sob tratamento medicamentoso otimizado, com bloqueio atrioventricular de 1o grau responsável por comprometimento hemodinâmico.
+Classe III
+- Cardiomiopatia dilatada e insuficiência cardíaca com boa resposta clínica e/ou não documentação de dissincronismo atrioventricular ou intraventricular.
+- Cardiomiopatia dilatada sintomática isquêmica quando a isquemia é passível de tratamento intervencionista ou cirúrgico.
+DESFIBRILADORES-CARDIOVERSORES AUTOMÁTICOS IMPLANTÁVEIS (24, 25)
+São próteses implantadas para o tratamento automático de taquiarritmias graves. Incorporam também um marcapasso convencional de forma a tratar tanto bradi como taquicardias. O desfibrilador implantável foi concebido por Mirowsky, na década de 60.
+Em decorrência do grande e rápido avanço da tecnologia nessa área, as indicações de desfibrilador-cardioversor automático implantável estão em constante evolução e certamente poderão ser modificadas num futuro próximo.
+Indicações do cardiodesfibrilador implantável
+Para estabelecer a relação custo-benefício, são necessários dados estatísticos de diversas formas de tratamento de arritmias cardíacas. As indicações publicadas na literatura internacional foram feitas levando-se em conta dados estatísticos existentes no local de origem. Como se sabe, em nosso meio não existem dados e, portanto, serão utilizados os já publicados na literatura internacional, em particular os referentes à cardiopatia isquêmica e não-isquêmica, excluída a cardiopatia chagásica crônica. Essa cardiopatia, endêmica em várias regiões do Brasil, disputa e às vezes supera a demanda para tratamento de arritmias malignas em nosso meio. Ainda não existem dados estatísticos para elaborar uma relação custo-benefício. Assim, a indicação de um cardiodesfibrilador implantável deverá resultar da adequação consensual das relações existentes para outras cardiopatias.
+Classe I
+- Parada cardíaca decorrente de fibrilação ou taquicardia ventricular não-relacionada a causa transitória ou reversível.
+- Taquicardia ventricular espontânea sustentada associada a cardiopatia estrutural.
+- Síncope de origem indeterminada, com taquicardia ventricular hemodinamicamente instável ou fibrilação ventricular induzidas no estudo eletrofisiológico, quando a terapia medicamentosa é ineficaz ou não tolerada.
+- Taquicardia ventricular não-sustentada em pacientes com coronariopatia, infarto do miocárdio prévio, disfunção ventricular, taquicardia ventricular sustentada ou fibrilação ventricular induzidas por estudo eletrofisiológico não suprimíveis por antiarrítmicos da classe I.
+- Taquicardia ventricular sustentada espontânea sem evidência de cardiopatia estrutural, desde que não seja possível nenhum outro tipo de tratamento.
+Classe II
+- Pacientes com fração de ejeção < 30%, pelo menos um mês após infarto ou três meses após revascularização do miocárdio.
+- Parada cardíaca presumidamente por fibrilação ventricular, quando o estudo eletrofisiológico está contra-indicado por outras condições médicas.
+- Sintomas graves atribuíveis a taquiarritmias ventriculares em pacientes que aguardam transplante cardíaco.
+- Condições familiares ou hereditárias com alto risco de arritmias ventriculares graves, tais como síndrome do QT longo, cardiomiopatia hipertrófica, síndrome de Brugada (26) ou taquicardia ventricular adrenérgico-dependente.
+- Taquicardia ventricular não-sustentada em pacientes com coronariopatia, infarto do miocárdio prévio, disfunção ventricular, taquicardia ventricular sustentada ou fibrilação ventricular induzidas por estudo eletrofisiológico.
+- Síncope recorrente de etiologia indeterminada na presença de disfunção ventricular e taquiarritmias ventriculares induzidas no estudo eletrofisiológico quando outras causas de síncope tenham sido excluídas.
+Classe III
+- Síncope de causa indeterminada em paciente sem taquiarritmias indutíveis e sem cardiopatia estrutural.
+- Taquicardia ventricular incessante.
+- Taquicardia ou fibrilação ventricular resultante de arritmias ou condições passíveis de tratamento cirúrgico ou por meio de ablação por cateter.
+- Taquiarritmias ventriculares decorrentes de condições transitórias ou reversíveis (infarto agudo do miocárdio, distúrbio hidroeletrolítico, drogas, trauma, etc.).
+- Doença psiquiátrica importante que possa impedir o implante do desfibrilador ou seu seguimento.
+- Doença terminal com expectativa de vida menor que seis meses.
+- Pacientes com coronariopatia e disfunção ventricular, com QRS largo na ausência de taquiarritmias ventriculares sustentadas ou não-sustentadas, espontâneas ou induzidas, que deverão ser submetidos a revascularização do miocárdio.
+- Insuficiência cardíaca refratária a drogas de grau funcional IV em pacientes que não são candidatos a transplante cardíaco.
+ESTIMULAÇÃO CARDÍACA ARTIFICIAL E INDICAÇÕES DE IMPLANTE DE CARDIODESFIBRILADORES MULTISSÍTIO (27)
+Classe I
+- Pacientes com indicação classe I para implante de cardiodesfibriladores (consulte as diretrizes para avaliação e tratamento de pacientes com taquiarritmias malignas cardiodesfibrilador automático implantável) e com bloqueio intraventricular (QRS > 130 ms), classe funcional III ou IV, diâmetro diastólico final do ventrículo esquerdo > 55 mm e fração de ejeção do ventrículo esquerdo < 0,30.
+Classe II
+- Cardiomiopatia dilatada e insuficiência cardíaca grave, bloqueio intraventricular (QRS > 130 ms), diâmetro diastólico final do ventrículo esquerdo > 55 mm e fração de ejeção do ventrículo esquerdo < 0,35, com ou sem marcapasso multissítio e com indicação de cardiodesfibrilador implantável classes I ou II.
+- Pacientes com indicação classe II para implante de cardiodesfibriladores (consulte as diretrizes para avaliação e tratamento de pacientes com taquiarritmias malignas cardiodesfibrilador automático implantável) associada a cardiomiopatia dilatada e insuficiência cardíaca grave, bloqueio intraventricular (QRS > 130 ms), diâmetro diastólico final do ventrículo esquerdo > 55 mm e fração de ejeção do ventrículo esquerdo < 0,35.
+Classe III
+- Qualquer indicação de cardiodesfibrilador implantável sem bloqueio intraventricular.
+- Indicação de estimulação multissítio sem critérios que preencham indicação de cardiodesfibrilador implantável.

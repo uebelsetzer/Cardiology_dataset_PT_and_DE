@@ -1,0 +1,133 @@
+Seguimento clínico, diagnóstico e tratamento das complicações nos portadores de marcapasso
+<Autor(es): Remy Nelson Albornoz Vargas, Francisco Lopes Molina>
+INTRODUÇÃO
+Os pacientes portadores de marcapassos definitivos devem ser acompanhados rotineiramente para prevenir e diagnosticar disfunções do sistema gerador-eletrodo-coração, programando o marcapasso de acordo com as necessidades clínicas e ajustando o consumo de energia para dar ao paciente máxima segurança com maior longevidade da bateria. Também é fundamental reavaliar a sensibilidade do aparelho ao ritmo próprio do paciente, analisar a impedância do sistema gerador-eletrodo para a verificação da integridade do circuito e analisar a memória do gerador para obter informações a respeito do histórico de arritmias e eventos monitorados pelo sistema. Normalmente reavalia-se o paciente trinta dias após a cirurgia e a cada três ou quatro meses no primeiro ano, e, posteriormente, a cada seis meses.
+AVALIAÇÃO CLÍNICA
+O seguimento é iniciado por rigorosa reavaliação clínica. Os sintomas e o exame físico são fundamentais para informar as condições de funcionamento do marcapasso.
+Sintomas
+Palpitações, tonturas, síncopes, pré-síncopes e intolerância ao esforço físico com piora do grau funcional podem estar relacionadas a presença de arritmias cardíacas, síndrome do marcapasso decorrente de um dessincronismo atrioventricular ou interventricular, disfunções do sistema gerador-eletrodo (tais como falhas de comando por fraturas, aumento de limiar, deslocamento de eletrodo, desgaste da bateria) ou por falta de programação dos recursos do marcapasso como resposta de freqüência, histerese, intervalo A-V dinâmico, etc.
+Exame físico
+O exame da loja do marcapasso é indispensável, verificando se existe ou não estimulação de loja, e avaliando a integridade da pele do local, a presença de inflamação ou distensão da loja (prevenção de erosões da pele ou extrusão do gerador) e a posição do gerador, que pode ter sofrido luxações, originando desconforto e tracionamento dos eletrodos.
+Também é rotina pesquisar as estimulações diafragmática ou frênica, que podem fazer suspeitar de deslocamentos e/ou perfuração do miocárdio e migração de eletrodos. Além dessa avaliação, é fundamental que se tenha atenção especial para a presença de insuficiência cardíaca, insuficiência mitral, sinais da síndrome do marcapasso (dessincronismo ventriculoatrial), sinais de endocardite bacteriana (febre, emagrecimento, petéquias, hepatoesplenomegalia) e também alterações da pressão arterial ortostática e em decúbito (é fundamental a pesquisa dirigida de hipotensão postural, freqüente nos idosos e em portadores da síndrome do marcapasso).
+Após história clínica e exame físico específicos, inicia-se a verificação eletrônica do marcapasso, cujos parâmetros podem ser acessados de forma bastante extensa por meio de recurso não-invasivo, que é a programação por telemetria.
+Desgaste do gerador
+A bateria do marcapasso é uma fonte limitada de energia e apresenta desgaste progressivo, mesmo quando o gerador se encontra inibido. As baterias atuais são de lítio (+) (1, 2) e iodo (-), que geram aproximadamente 2,8 V. Essa tensão de saída é mantida durante 70% a 75% do tempo de duração da bateria, caindo para 2,4 V quando 90% da bateria são consumidos. De modo geral, abaixo de 2,5 V todos os marcapassos apresentam indicação de fim de vida.
+INDICADORES DE FINAL DE VIDA DO MARCAPASSO
+Intervalo de pulso
+É o inverso da freqüência de estimulação e o parâmetro mais importante para indicar desgaste da bateria, durante o qual a freqüência cai e o intervalo de pulso aumenta. Muitas vezes o marcapasso está inibido pelo ritmo próprio e as espículas do pulso não estão visíveis. Nesse caso, o intervalo de pulso é avaliado colocando-se um ímã (3) sobre o gerador. Isso desliga o mecanismo de sensibilidade (demanda) e o gerador passa a estimular com freqüência mais alta (90 ppm a 100 ppm). Com o desgaste, a freqüência magnética reduz-se em 10 ppm a 15 ppm. Essa manobra precisa ser monitorada para evitar competição de ritmos. A medida da freqüência magnética é o parâmetro mais importante na avaliação do desgaste. Em situação de emergência, pode ser realizada sob monitoração eletrocardiográfica pelo cardiologista, sem necessidade do programador. Isso somente não será possível se o relê magnético do marcapasso tiver sido desligado por programação anterior. Os geradores atuais têm durabilidade aproximada de cinco anos. Entretanto, podem durar mais ou menos, dependendo de fatores que interferem no consumo relacionados ao paciente, ao gerador, aos eletrodos e à programação. (4)
+Largura de pulso
+A duração do pulso (0,10 ms a 1,50 ms) é um parâmetro secundário de desgaste em alguns marcapassos, nos quais aumenta com a queda de voltagem da bateria. Esse recurso, entretanto, somente pode ser analisado com um aparelho especial intervalômetro e não está mais sendo utilizado nos marcapassos modernos.
+Telemetria
+As informações mais definidas sobre o desgaste da bateria são fornecidas por meio de telemetria. Depende da utilização do programador específico de cada marcapasso. Nesse caso, são informados a voltagem real da bateria, sua impedância interna, a drenagem de corrente e, inclusive, alguns sistemas fornecem a expectativa de duração remanescente.
+Sinal de desgaste nos desfibriladores
+É importante lembrar que, nesses aparelhos, o ímã somente se aplica para desligar o modo antitaquicardia. É, portanto, contra-indicado utilizá-lo para analisar desgaste. Nesse caso, essa informação somente é disponível por telemetria ou, de acordo com a programação, o sistema emite um "bip" periódico avisando ao paciente que necessita fazer a verificação da bateria.
+Sinal de desgaste à distância
+Já estão sendo utilizados marcapassos que transmitem automaticamente para o médico um aviso de desgaste por meio do sistema de telefonia celular e internet. Atualmente apenas um fabricante está disponibilizando esse recurso, mas a expectativa é de utilização ampla em futuro próximo.
+Mudança do modo de estimulação pelo desgaste
+Os marcapassos modernos apresentam recursos de economia de energia na presença de desgaste da bateria. Um desses recursos é mudar o modo de estimulação para um modo de menor consumo (Fig. 1). Dessa forma, o sistema de resposta de freqüência é desligado e, no marcapasso bicameral, ocorre a conversão para um modo de estimulação ventricular isolado. Sempre que o clínico perceber mudança de modo deve estar atento à possibilidade de desgaste. Isso também pode ocorrer quando o marcapasso é exposto a intensa interferência eletromagnética (realização inadvertida de ressonância magnética ou qualquer outra interferência de grande intensidade) ou a oscilações muito intensas de temperatura.
+<Figura 1. Marcapasso com mudança de modo DDD para VVI mais falha de comando.> <figura>
+Avaliação do comando do marcapasso
+Pode ser realizado de forma manual ou automática. Atualmente todos os sistemas são automatizados, de forma que o limiar de comando pode ser avaliado com pouca interação do médico. Quando o marcapasso se encontra inibido pelo ritmo próprio do paciente, o comando somente pode ser verificado por programação da freqüência.
+<Figura 2. Histerese e limiar de comando determinado com o sistema VARIO.> <figura>
+O limiar de comando é a mensuração da menor energia capaz de provocar a despolarização do músculo cardíaco (limiar de comando) (5), e atualmente existem várias maneiras de se obter esse valor. (6, 7) Uma forma bastante elegante é o sistema "VARIO test" (8) (Fig. 2). Nesse caso, quando se aplica e se mantém um ímã sobre o gerador, após o teste de freqüência magnética o mesmo inicia de forma automática uma sucessão de pulsos progressivamente menores, partindo da energia programada até 0 V. Esse é um sistema prático pelo fato de permitir a avaliação precisa do limiar sem necessidade de programadores. Entretanto, não tem sido incluído sistematicamente nos novos marcapassos. Alguns marcapassos apresentam o sistema de determinação automática do limiar conhecido como autocaptura (9). Nesse caso, o limiar é medido constantemente pelo gerador durante seu funcionamento regular. Os valores são mostrados num gráfico, tendo-se informação detalhada da evolução do limiar de comando. Nesse caso, além de medir o limiar, o marcapasso ajusta a energia de estimulação, proporcionando economia e aumento da longevidade da bateria. A aferição desse recurso depende da leitura da memória do sistema por meio do programador.
+O aumento agudo ou crônico do limiar de comando provoca a falha de comando ou "bloqueio de saída", cujas causas principais estão descritas na Tabela 1.
+<Tabela 1. Causas de falha de comando e/ou de sensibilidade.> <tabela>
+A avaliação da sensibilidade também é feita com programação. Reduz-se a freqüência de estimulação até o aparecimento de ritmo espontâneo do paciente e conseqüente inibição do marcapasso (10, 11). Nesse momento, reduz-se a sensibilidade até que comece a ocorrer competição do marcapasso com o ritmo próprio. Isso permite determinar a amplitude das ondas P e/ou R. Quando as ondas P ou R são menores que o valor mínimo que o gerador detecta ocorre falha de sensibilidade (Tab. 1). Nessa situação, quando a freqüência cardíaca do paciente se torna maior que a freqüência programada do marcapasso ocorre competição de ritmos falha de sensibilidade ou "undersensing" com as conseqüências habituais: palpitações e risco de indução de arritmias potencialmente malignas (Fig. 4). A maioria dos marcapassos modernos avalia automaticamente as amplitudes das ondas P e/ou R, não sendo necessária a medida ponto a ponto. Quando a sensibilidade é programada muito alta é possível induzir a captação de outros sinais intra ou extracardíacos ("oversensing"), levando a inibições ou deflagrações. Esse fenômeno é muito mais freqüente quando a sensibilidade é obtida de forma unipolar que quando é obtida de forma bipolar.
+<Figura 3. Fratura incompleta do eletrodo, mostrando falha intermitente de comando.>
+<Figura 4. “Undersensing”. Eletrocardiograma demonstrando competição do ritmo próprio com o ritmo do marcapasso.> <figura>
+Eventualmente ocorre detecção de sinais indesejáveis do próprio marcapasso, do coração, do paciente ou do ambiente:
+1. Detecção da espícula atrial pelo circuito de sensibilidade ventricular ("cross-talk"). (12, 13)
+2. Detecção de ondas T.
+3. Detecção de ondas P pelo circuito ventricular ou de ondas T pelo atrial ("cross-sensing").
+4. Detecção de potenciais musculares (Fig. 5).
+<Figura 5. “Oversensing”. Eletrocardiograma — marcapasso VVI unipolar com inibição por miopotencial esquelético.> <figura>
+5. Detecção de interferências eletromagnéticas.
+Todos esses tipos de "oversensing" são mais freqüentes na sensibilidade unipolar. Podem provocar sintomas de palpitações, risco de assistolia e Stokes-Adams, competição de ritmo e deflagrações inapropriadas.
+Nos marcapassos bicamerais as avaliações de comando e de sensibilidade devem ser realizadas de forma independente em cada câmara, ajustando-se a programação final com boa margem de segurança tanto em átrio como em ventrículo.
+Programação do período refratário
+Faz parte da avaliação de sensibilidade e sua programação criteriosa permite prevenir/corrigir muitos casos de "oversensing" e de "cross-sensing".
+AVALIAÇAO DA MEMÓRIA DO MARCAPASSO
+A maioria dos marcapassos atuais apresenta o recurso de gravar eventos na memória do gerador. Esses dados podem ser obtidos durante a programação. Além de data, hora e estatística do evento alguns marcapassos e todos os desfibriladores gravam um período de eletrocardiograma endocavitário antes, durante e após o episódio. Isso permite fornecer inúmeras informações, tais como: histograma de freqüência; porcentual de estimulação e sensibilidade do marcapasso; quantidade e tipo de arritmias supra e ventriculares; curvas de atividade do biossensor; gráfico das amplitudes das onda P e R; gráfico das impedâncias dos eletrodos; gráficos dos limiares de comando e desgaste da bateria; registros eletrocardiográficos endocavitários com marcadores de eventos atriais e ventriculares e alterações do ritmo cardíaco (registro de crises de taquicardia ventricular não-sustentada, fibrilação atrial, "flutter" atrial, extra-sístoles ventriculares, bradicardias súbitas como na síncope neurocardiogênica e outros). Essas informações muitas vezes são decisivas no esclarecimento de sintomas, auxiliando a conduta médica.
+Freqüência do marcapasso
+Na avaliação é muito importante considerar a freqüência de estimulação e, nesse sentido, cabem algumas perguntas: A freqüência do marcapasso está adequada em repouso, durante o esforço e durante a noite? A curva de resposta da freqüência está fisiológica? Podemos reduzir a freqüência para obter mais ritmo próprio com menor dessincronização ventricular e menor consumo de energia? Será que os sintomas de angina, dispnéia, tonturas se devem a uma freqüência inapropriada?
+Essas questões devem ser respondidas pela análise detalhada da história clínica, do exame físico e da memória do marcapasso. Um teste ergométrico e um exame de Holter são muito úteis para obter informação segura a esse respeito e ajustar a programação.
+PROGRAMANDO O MARCAPASSO E CORRIGINDO COMPLICAÇÕES
+Após a avaliação clínica, das condições da bateria, dos limiares de comando e de sensibilidade e de uma análise cuidadosa dos registros existentes na memória, realiza-se a programação do gerador. Nessa etapa uma grande variedade de possíveis disfunções e complicações pode ser prevenida e corrigida com a programação. A seguir são citados os problemas mais freqüentemente observados no seguimento desses pacientes.
+COMPLICAÇÕES DOS MARCAPASSOS
+As complicações relativas à estimulação cardíaca artificial podem ser consideradas precoces, que ocorrem nos primeiros trinta dias após a cirurgia e geralmente estão relacionadas a ela, e tardias, bastante raras desde que sejam considerados os cuidados e técnicas pertinentes.
+1. Complicações precoces:
+Pneumotórax ou hemotórax.
+Hematoma na loja do gerador (Fig. 6).
+<Figura 6. Figura demonstrando hematoma na loja do gerador.> <figura>
+Embolia gasosa.
+Derrame pericárdico e tamponamento.
+Pericardite.
+Perfuração atrial ou ventricular.
+Estimulação frênica e/ou diafragmática.
+Deslocamento de eletrodo.
+Falha na conexão do gerador.
+Falha de comando e/ou sensibilidade.
+Infecção da loja ou endocardite.
+Taquicardias ou fibrilação ventricular.
+Taquicardias por reentrada eletrônica.
+2. Complicações tardias:
+Falha de comando e/ou sensibilidade.
+Deslocamento de eletrodo (Fig. 7).
+<Figura 7. Figura demonstrando deslocamento de eletrodo.> <figura>
+Estimulação muscular na loja do marcapasso.
+Estimulação diafragmática e/ou frênica.
+Inflamação da loja do marcapasso.
+Erosão da pele da loja do marcapasso.
+Infecção da loja do marcapasso.
+Endocardite.
+Migração do gerador.
+Lesão do isolante do eletrodo.
+Fratura do eletrodo.
+Falha eletrônica do gerador.
+Trombose venosa.
+Síndrome do marcapasso.
+Arritmias induzidas ou mediadas pelo marcapasso.
+Programações inadequadas do marcapasso.
+As complicações precoces geralmente acontecem no pós-operatório imediato. Por essa razão, é aconselhável manter a observação desses pacientes pelo menos 24 horas após a cirurgia. Nesse período, devem ser realizados eletrocardiografia, radiografia de tórax e pelo menos um curativo da sutura cirúrgica. As complicações tardias em geral são diagnosticadas na clínica de seguimento de pacientes portadores de marcapasso ou pela procura do paciente na presença de sintomas. A análise detalhada de cada caso determina a melhor conduta, que poderá ser expectante, programação ou reintervenção. Eventualmente pode ser necessário o implante de um marcapasso provisório até a solução definitiva do problema.
+<Figura 8. Indução de taquicardia ventricular na colocação de ímã em marcapasso inibido.> <figura>
+<Figura 9. Taquicardia por reentrada eletrônica: registro de eletrocardiograma endocavitário com marcador de eventos.> <figura>
+A Tabela 2 apresenta um resumo das principais disfunções e complicações do portador de marcapasso que mais freqüentemente são vistas no consultório do cardiologista, com as respectivas manifestações mais freqüentes e principais condutas.
+<Tabela 2. Principais disfunções e complicações observadas no seguimento dos pacientes portadores de marcapassos com as respectivas manifestações mais relevantes e principais condutas.> <tabela>
+SÍNDROME DO MARCAPASSO
+É uma importante complicação da estimulação cardíaca, sendo a princípio observada nos marcapassos unicamerais ventriculares. Ocorre tipicamente em pacientes que apresentam condução ventriculoatrial, ocasionando contração atrial quando as valvas atrioventriculares estão fechadas. Isso ocasiona refluxo sanguíneo para as circulações pulmonar e sistêmica com sintomas de hipotensão arterial, palpitações, precordialgia, dispnéia, adinamia, etc. Esse quadro pode ocorrer mesmo na ausência de condução V-A, somente pela falta do sincronismo atrioventricular. Pode ocorrer, por exemplo, quando o intervalo A-V não encurta com o aumento da freqüência cardíaca. (16-18) Outra condição de grande importância é a chamada síndrome ventricular do marcapasso, ocasionada pela estimulação ventricular com QRS largo em portadores de cardiomiopatia dilatada.
+Esquemas de eletrocardiogramas do portador da síndrome do marcapasso
+A. Síndrome do marcapasso sem condução ventriculoatrial (Fig. 10).
+<Figura 10. Eletrocardiograma demonstrando alternância do ritmo próprio com o ritmo do marcapasso, evidenciando importante aumento da duração do QRS, que leva ao dessincronismo interventricular.> <figura>
+B. Síndrome do marcapasso com condução atrioventricular inapropriada (Fig. 11).
+<Figura 11. Eletrocardiograma demonstrando condução atrioventricular inapropriada (A-R > R-A).> <figura>
+C. Síndrome do marcapasso com condução ventriculoatrial (onda P retrógrada) (Fig. 12).
+<Figura 12. Eletrocardiograma com condução ventriculoatrial.> <figura>
+PROGRAMAÇÃO FINAL DO MARCAPASSO
+Mesmo que não tenham sido identificadas disfunções do marcapasso, é necessário que se faça uma programação cuidadosa, para que o paciente tenha melhor rendimento cardíaco e segurança na estimulação até a próxima avaliação. Nesse sentido, existem algumas regras gerais de programação:
+Programação de sensibilidade.
+Programação de energia (limiar de comando).
+Modo de estimulação e polaridade.
+Freqüência basal.
+Freqüência máxima de seguimento atrioventricular.
+Programação do intervalo A-V estimulado e sentido.
+Histerese de freqüência e do intervalo A-V. (19-21)
+Períodos refratários atriais e ventriculares.
+Proteção contra taquicardias por reentrada eletrônica.
+Proteção contra "under" ou "oversense".
+Habilitação e programação adequada dos biossensores.
+Outras.
+EXAMES COMPLEMENTARES NO SEGUIMENTO DOS PORTADORES DE MARCAPASSO
+Radiografia
+Para avaliação cardiopulmonar, do tipo de marcapasso, da integridade e da posição dos cabos-eletrodos.
+Ecocardiografia
+Avaliar o grau de disfunção hemodinâmica atrioventricular e o funcionamento valvar tanto mitral como tricúspide, e descartar quadros de infecção intracardíaca (vegetações nos eletrodos ou nas valvas atrioventriculares ) ou presença de trombos.
+Holter
+Para avaliação de arritmias supra ou ventriculares e de disfunções do marcapasso, que possam estar relacionadas a sintomas do paciente.
+Teste ergométrico
+Geralmente para avaliar o comportamento do marcapasso frente a diferentes estados de atividade física do paciente, correlacionando variações da freqüência cardíaca, pressão arterial, e surgimento ou não de arritmias cardíacas nos diferentes estágios do teste com os sintomas do paciente. Uma das maiores indicações do teste ergométrico é na programação dos biossensores.
+"Tilt test"
+Importante para controle dos casos nos quais o marcapasso foi indicado para tratamento da síncope neurocardiogênica maligna. Também é de grande utilidade no diagnóstico diferencial das síncopes e tonturas no portador de marcapasso. Nos idosos, é muito comum que a disfunção da vasomotricidade, associada a modo de estimulação não ideal, promova sintomas de baixo débito e de hipotensão postural, que podem ser detalhadamente estudados com esse exame. Nos portadores de marcapasso, também pode ocorrer síncope neurocardiogênica do tipo vasodepressor.
+Estudo eletrofisiológico
+É solicitado na presença de arritmias supra ou ventriculares com repercussão hemodinâmica para que seja feito diagnóstico correto e tratamento de ablação por radiofreqüência (casos de fibrilação ou "flutter" atrial paroxísticos ou de recente começo, e taquicardias ventriculares monofocais ou polifocais).
+"Loop recording"
+Para casos com sintomas pouco freqüentes considerados de alto risco e nos casos em que o Holter não foi suficiente pela curta duração de registro. Nesse tipo de investigação, o paciente pode ficar com o aparelho por semanas, durante as quais é feito registro contínuo eletrocardiográfico, sendo possível, caso ocorra algum sintoma, que o paciente acione um marcador de eventos que tem memória remota eletrocardiográfica de alguns segundos. Dessa forma, permite analisar o eletrocardiograma antes, durante e após o evento sintomático.
